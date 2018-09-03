@@ -1,0 +1,38 @@
+CACHE MANIFEST
+#cache the below resources for offline viewing. 	2
+CACHE:
+apple-touch-icon.png
+favicon.ico
+grammar.html
+greek.js
+greekpict.GIF
+index.html
+jquery-1.12.1.js
+jszip-utils.js
+jszip.js
+lang.js
+menu.js
+morphcodedict.js
+my.css
+onsenui-core.min.css
+onsen-css-components.min.css
+./ionicons/css/ionicons.min.css
+./ionicons/fonts/ionicons.eot
+./ionicons/fonts/ionicons.ttf
+./ionicons/fonts/ionicons.woff
+./ionicons/fonts/ionicons.svg
+onsenui.js
+SBL_grk.ttf
+setting.html
+strongs-greek.js
+util.js
+averses.zip
+androidUtil.js
+findtext.js
+
+#never cache the below resources. '*' indicates not to cache anything other than the one listed for caching. We can also provide a list of resources.
+NETWORK:
+*
+
+#here if online.js is not available then offline.js is served to the user during online and offline browsing. If any other file fails to be loaded then offline.html is served because all files fall inside '/' catalog. Here offline.html and offline.js are cached. But online.js is not cached.
+FALLBACK:

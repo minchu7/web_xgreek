@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html manifest="./cashe.manifest">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.6, maximum-scale=3.0, user-scalable=yes">
+    <link rel="icon" href="./favicon.ico">
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+    <meta charset="UTF-8">
+    <!--link rel="stylesheet" href="onsenui.css">
+	<link rel="stylesheet" href="onsen-css-components.css"-->
+    <link rel="stylesheet" href="onsenui-core.min.css">
+    <link rel="stylesheet" href="onsen-css-components.min.css">
+    <link rel="stylesheet" href="./ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="my.css">
+
+    <!--script src="cordova.js"></script-->
+    <script src="onsenui.js"></script>
+    <script>
+		ons.disableAutoStatusBarFill();
+		ons.disableAutoStyling();
+	</script>
+    <script src="jquery-1.12.1.js"></script>
+    <script src="lang.js"></script>
+    <script src="strongs-greek.js"></script>
+    <script src="menu.js"></script>
+    <script src="androidUtil.js"></script>
+    <script src="iosUtil.js"></script>
+    <script src="morphcodedict.js"></script>
+    <script src="jszip.js"></script>
+    <script src="jszip-utils.js"></script>
+    <script src="greek.js"></script>
+    <script src="findtext.js"></script>
+    <script src="util.js"></script>
+    <script>
+    	/* code for phonegap
+    	var debugF = true;
+    	var script = document.createElement('script');
+		script.type='text/javascript';
+		if(debugF) {
+		  	script.src = "http://192.168.1.13:8080/target/target-script-min.js#anonymous";
+			document.getElementsByTagName('head')[0].appendChild(script);
+		}
+		*/
+		function popupHistory( event){
+			LastTdPopup = null;
+			popTooltip(makeHistoryList());
+		}
+		ons.ready(function(){
+			console.log('ons.ready: window.Cordova=' + window.Cordova);
+			var element = document.getElementById("overlay");
+			element.ontouchmove = function(event) {
+			    if (!event.elementIsEnabled) {
+			        event.preventDefault();
+			    }
+			};
+			window.setTimeout(Initialize, 100);
+		});
+	</script>
+</head>
+<body>
+<ons-splitter id="splitter">
+    <ons-splitter-side id="splitter-menu" side="left" width="200px" collapse>
+        <ons-page id="menu">
+            <ons-list>
+                <ons-list-header uilang="ChooseAction"></ons-list-header>
+                <ons-list-item tappable onclick="util.load('grammar.html', {});">
+                    <div class="left">
+                        <img class="list-item__thumbnail" src="images/grammar.png">
+                    </div>
+                    <div uilang="Grammar"></div>
+                </ons-list-item>
+                <ons-list-item tappable onclick="util.load('FindText.html', {})">
+                    <div class="left">
+                        <img class="list-item__thumbnail" src="images/search.png">
+                    </div>
+                    <div uilang="FindText"></div>
+                </ons-list-item>
+                <ons-list-item tappable onclick="util.menuClose(); return flipParallet();">
+                    <div class="left">
+                        <img class="list-item__thumbnail" src="images/change.png">
+                    </div>
+                    <div id="actionInterlinear" uilang="ParalletView"></div>
+                </ons-list-item>
+                <ons-list-item tappable onclick="util.menuClose(); popupHistory( event);">
+                    <div class="left">
+                        <img class="list-item__thumbnail" src="images/history.png">
+                    </div>
+                    <div uilang="History"></div>
+                </ons-list-item>
+                <ons-list-item tappable onclick="util.menuClose(); return goPrevChapter();">
+                    <div class="left">
+                        <img class="list-item__thumbnail" src="images/prevChapter.png">
+                    </div>
+                    <div uilang="PreviousChapter"></div>
+                </ons-list-item>
+                <ons-list-item tappable onclick="util.menuClose(); return goNextChapter();">
+                    <div class="left">
+                        <img class="list-item__thumbnail" src="images/prevChapter.png" style="transform: scaleX(-1); -webkit-transform: scaleX(-1)">
+                    </div>
+                    <div uilang="NextChapter"></div>
+                </ons-list-item>
+            </ons-list>
+        </ons-page>
+    </ons-splitter-side>
+    <ons-splitter-content page="homePage.html"></ons-splitter-content>
+</ons-splitter>
+<div class="popup" id="popup" onclick="closeOverlay()">
+    <span class="popuptext" id="popoverTxt">A Simple Popup!</span>
+</div>
+<div id="overlay" class="overlay" onclick="closeOverlay()">
+</div>
+<ons-modal direction="up">
+    <div style="text-align: center">
+        <p>
+            <ons-icon icon="md-spinner" size="28px" spin></ons-icon> Loading...
+        </p>
+    </div>
+</ons-modal>
+<template id="homePage.html">
+    <ons-page id="homePage">
+        <ons-navigator id="myNavigator" var="myNavigator" page="main.html"></ons-navigator>
+    </ons-page>
+</template>
+
+<template id="main.html">
+    <ons-page id="main">
+        <ons-toolbar id="maintoolbar"  class="myToolbar">
+            <div class="left">
+            	<ons-toolbar-button id="splitter-toggle" onclick="util.open()">
+            		<ons-icon icon="ion-navicon" size="28px"></ons-icon>		
+            	</ons-toolbar-button>
+            	<ons-toolbar-button id="splitter-toggle" onclick="return goPrevChapter();">
+            		<ons-icon icon="ion-arrow-left-a" size="28px"></ons-icon>		
+            	</ons-toolbar-button>
+            	<ons-toolbar-button id="splitter-toggle" onclick="speakOff();">
+            		<ons-icon icon="ion-android-volume-off" size="28px"></ons-icon>		
+            	</ons-toolbar-button>
+            </div>
+            <div class="center" id="verseTitle">Loading...</div>
+            <div class="right">
+            	<ons-toolbar-button id="splitter-toggle" onclick="return goNextChapter();">
+            		<ons-icon icon="ion-arrow-right-a" size="28px"></ons-icon>		
+            	</ons-toolbar-button>
+                <ons-toolbar-button onclick="util.load('setting.html', {})" >
+                    <ons-icon icon="ion-android-settings"></ons-icon>
+                </ons-toolbar-button>
+            </div>
+        </ons-toolbar>
+        <div id='mainTable'>
+            <table style="border-spacing:2px; border-collapse:separate" id="verse-table">
+                <tbody id="verse">
+                <!-- bible verse table entries generated dynamically. -->
+                </tbody>
+            </table>
+        </div>
+    </ons-page>
+</template>
+<template id="FindText.html">
+    <ons-page id="findText">
+        <ons-toolbar class="myToolbar">
+            <div class="left"><ons-back-button id="FindBackBT"><div uilang="Back"></div></ons-back-button></div>
+            <div class="center" uilang="FindText"></div>
+        </ons-toolbar>
+        <div style="height:90vh;max-width:400px; margin:auto;-webkit-box-shadow: 0 0 12px rgba(0,0,0,.6);
+	    -moz-box-shadow: 0 0 12px rgba(0,0,0,.6);text-align: center;">
+            <div class="r_flex_container">
+                <ons-row style="flex:none; height:40px; margin:2px;" vertical-align="center">
+                    <ons-col width="90px">
+                        <ons-select id="versionCB"></ons-select>
+                    </ons-col>
+                    <ons-col width="70px">
+                        <div style="text-align:right" uilang="Words"></div>
+                    </ons-col>
+                    <ons-col width="160px">
+                        <ons-search-input id="searchText"
+                                placeholder="Search"
+                                onchange="findTxtInBible()"
+                        ></ons-search-input>
+                    </ons-col>
+                    <ons-col>
+	                    <ons-toolbar-button onclick="findTxtInBible()" >
+	                    <ons-icon icon="ion-search"></ons-icon>
+                    </ons-col>
+                </ons-toolbar-button>
+                </ons-row>
+                <div class="scroller">
+                    <ons-list id="foundList">
+                        <ons-list-header>
+                            <div class="inline" uilang="FoundVerses"></div>
+                            <div class="inline" id="FoundVerseNo">(0)</div>
+                        </ons-list-header>
+                    </ons-list>
+                </div>
+            </div>
+        </div>
+        <script>
+			ons.getScriptPage().onInit = function() {
+				// Set up page's content or anything else
+				this.onShow = function(){
+					initFindText();
+				};
+			};
+		</script>
+    </ons-page>
+</template>
+</body>
+</html>

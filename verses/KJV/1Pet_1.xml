@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book>
+ <chapter book="null" number="1">
+  <verse number="1">
+   <KJV>
+    <word seq="1">Peter,<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">an apostle<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">of Jesus<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">Christ,<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">to the strangers<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="6">scattered throughout<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="7">Pontus,<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="8">Galatia,<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="9">Cappadocia,<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="10">Asia,<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="11">and<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="12">Bithynia,<GreekSeq>13</GreekSeq>
+    </word>
+    <word note="from next verse" seq="13">[Elect]<GreekSeq>5</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="2">
+   <KJV>
+    <word note="see previous verse" seq="1">Elect</word>
+    <word seq="2">according to<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="3">the foreknowledge<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="4">of God<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="5">the Father,<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">through<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="7">sanctification<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="8">of the Spirit,<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="9">unto<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="10">obedience<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="11">and<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="12">sprinkling<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">of the blood<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="14">of Jesus<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="15">Christ:<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="16">Grace<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="17">unto you,<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="18">and<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="19">peace,<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="20">be multiplied.<GreekSeq>19</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="3">
+   <KJV>
+    <word seq="1">Blessed<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">be</word>
+    <word seq="3">the<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="4">God<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="5">and<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">Father<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="7">of<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="8">our<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="9">Lord<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="10">Jesus<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="11">Christ,<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="12">which<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">according to<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="14">his<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="15">abundant<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="16">mercy<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="17">hath begotten<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="18">us<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="19">again<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="20">unto<GreekSeq>19</GreekSeq>
+    </word>
+    <word seq="21">a lively<GreekSeq>21</GreekSeq>
+    </word>
+    <word seq="22">hope<GreekSeq>20</GreekSeq>
+    </word>
+    <word seq="23">by<GreekSeq>22</GreekSeq>
+    </word>
+    <word seq="24">the resurrection of <GreekSeq>23</GreekSeq>
+    </word>
+    <word seq="25">Jesus<GreekSeq>24</GreekSeq>
+    </word>
+    <word seq="26">Christ<GreekSeq>25</GreekSeq>
+    </word>
+    <word seq="27">from<GreekSeq>26</GreekSeq>
+    </word>
+    <word seq="28">the dead,<GreekSeq>27</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="4">
+   <KJV>
+    <word seq="1">To<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">an inheritance<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">incorruptible,<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">and<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">undefiled,<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="6">and<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">that fadeth not away,<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="8">reserved<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="9">in<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="10">heaven<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">for<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="12">you,<GreekSeq>12</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="5">
+   <KJV>
+    <word seq="1">Who are kept<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="2">by<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">the power<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">of God<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">through<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="6">faith<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="7">unto<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="8">salvation<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="9">ready<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="10">to be revealed<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="11">in<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="12">the<GreekSeq/>
+    </word>
+    <word seq="13">last<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="14">time.<GreekSeq>13</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="6">
+   <KJV>
+    <word seq="1">Wherein<GreekSeq>1</GreekSeq>
+     <GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="2">ye greatly rejoice,<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="3">though</word>
+    <word seq="4">now<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="5">for a [season],<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">if<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">need<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="8">be,<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="9">ye are in heaviness<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="10">through<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">manifold<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="12">temptations:<GreekSeq>12</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="7">
+   <KJV>
+    <word seq="1">That<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">the<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">trial<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">of<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="5">your<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">faith,<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">being</word>
+    <word note="Base of different Greek: πολυ(4183) τιμιώτερον(5093)" seq="8">much more precious than<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="9">of gold<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="10">that perisheth,<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">though<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="12">it be tried<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="13">with<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="14">fire,<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="15">might be found<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="16">unto<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="17">praise<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="18">and<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="19">honour<GreekSeq>21</GreekSeq>
+    </word>
+    <word seq="20">and<GreekSeq>20</GreekSeq>
+    </word>
+    <word seq="21">glory<GreekSeq>19</GreekSeq>
+    </word>
+    <word seq="22">at<GreekSeq>22</GreekSeq>
+    </word>
+    <word seq="23">the appearing<GreekSeq>23</GreekSeq>
+    </word>
+    <word seq="24">of Jesus<GreekSeq>24</GreekSeq>
+    </word>
+    <word seq="25">Christ:<GreekSeq>25</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="8">
+   <KJV>
+    <word seq="1">Whom<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">having<GreekSeq/>
+    </word>
+    <word seq="3">not<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="4">seen,<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="5">ye love;<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">in<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="7">whom,<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="8">though<GreekSeq/>
+    </word>
+    <word seq="9">now<GreekSeq>7</GreekSeq>
+    </word>
+    <word note="Base of different Greek: ἰδόντες(1492)" seq="10">ye see<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="11">him</word>
+    <word seq="12">not,<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="13">yet<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="14">believing,<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="15">ye rejoice<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="16">with joy<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="17">unspeakable<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="18">and<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="19">full of glory:<GreekSeq>16</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="9">
+   <KJV>
+    <word seq="1">Receiving<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">the<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">end<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">of<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="5">your<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="6">faith,<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="7">even</word>
+    <word seq="8">the salvation<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="9">of [your] souls.<GreekSeq>8</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="10">
+   <KJV>
+    <word seq="1">Of<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">which<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">salvation<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">the prophets<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="5">have inquired<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">and<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="7">searched diligently,<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="8">who prophesied<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="9">of<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="10">the<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">grace<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="12">that should come</word>
+    <word seq="13">unto<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="14">you:<GreekSeq>12</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="11">
+   <KJV>
+    <word seq="1">Searching<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">what,<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="3">or<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="4">what manner<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="5">of time<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="6">the<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="7">Spirit<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="8">of Christ<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="9">which was</word>
+    <word seq="10">in<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="11">them<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="12">did signify,<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="13">when it testified beforehand<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="14">the<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="15">sufferings<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="16">of <GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="17">Christ,<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="18">and<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="19">the<GreekSeq>19</GreekSeq>
+    </word>
+    <word seq="20">glory<GreekSeq>22</GreekSeq>
+    </word>
+    <word seq="21">that should follow.<GreekSeq>20</GreekSeq>
+     <GreekSeq>21</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="12">
+   <KJV>
+    <word seq="1">Unto whom<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">it was revealed,<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">that<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">not<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">unto themselves,<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="6">but<GreekSeq>7</GreekSeq>
+    </word>
+    <word note="Base of different Greek: ἡμῖν(2254)" seq="7">unto us<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="8">they did minister<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="9">the things,<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="10">which<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">are<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="12">now<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">reported<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="14">unto you<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="15">by<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="16">them <GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="17">that have preached the gospel<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="18">unto you<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="19">with<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="20">the<GreekSeq/>
+    </word>
+    <word seq="21">Holy<GreekSeq>20</GreekSeq>
+    </word>
+    <word seq="22">Ghost<GreekSeq>19</GreekSeq>
+    </word>
+    <word seq="23">sent<GreekSeq>21</GreekSeq>
+    </word>
+    <word seq="24">down</word>
+    <word seq="25">from<GreekSeq>22</GreekSeq>
+    </word>
+    <word seq="26">heaven;<GreekSeq>23</GreekSeq>
+    </word>
+    <word seq="27">which things <GreekSeq>25</GreekSeq>
+    </word>
+    <word seq="28">the angels<GreekSeq>27</GreekSeq>
+    </word>
+    <word seq="29">desire<GreekSeq>26</GreekSeq>
+    </word>
+    <word seq="30">to look<GreekSeq>28</GreekSeq>
+    </word>
+    <word seq="31">into.<GreekSeq>24</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="13">
+   <KJV>
+    <word seq="1">Wherefore<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">gird up<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">the<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">loins<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">of<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="6">your<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="7">mind,<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="8">be sober,<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="9">and</word>
+    <word seq="10">hope<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">to the end<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="12">for<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">the<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="14">grace<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="15">that is to be brought<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="16">unto you<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="17">at<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="18">the revelation<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="19">of Jesus<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="20">Christ;<GreekSeq>19</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="14">
+   <KJV>
+    <word seq="1">As<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">obedient<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="3">children,<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="4">not<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">fashioning yourselves [according to]<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="6">the<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">former<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="8">lusts<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="9">in<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="10">your<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="11">ignorance:<GreekSeq>10</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="15">
+   <KJV>
+    <word seq="1">But<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">as<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">he<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">which hath called<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">you<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="6">is</word>
+    <word seq="7">holy,<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="8">so<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="9">be ye<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="10">holy<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="11">in<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="12">all<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">manner of conversation;<GreekSeq>12</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="16">
+   <KJV>
+    <word seq="1">Because<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">it is written,<GreekSeq>2</GreekSeq>
+    </word>
+    <word note="Base of different Greek: γένεσθε(1096)" seq="3">Be ye<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="4">holy;<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">for<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="6">I<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="7">am<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="8">holy.<GreekSeq>8</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="17">
+   <KJV>
+    <word seq="1">And<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">if<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">ye call<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="4">on the Father,<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="5">who<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="6">without respect of persons<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">judgeth<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="8">according to<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="9">every man's<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="10">work,<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="11">pass<GreekSeq>19</GreekSeq>
+    </word>
+    <word seq="12">the<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="13">time<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="14">of<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="15">your<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="16">sojourning<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="17">here</word>
+    <word seq="18">in<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="19">fear:<GreekSeq>13</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="18">
+   <KJV>
+    <word seq="1">Forasmuch as<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="2">ye know<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="3">that</word>
+    <word seq="4">ye were<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="5">not<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="6">redeemed<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="7">with corruptible<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="8">things, as</word>
+    <word seq="9">silver<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="10">and<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="11">gold,<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="12">from<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="13">your<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="14">vain<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="15">conversation<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="16">received by </word>
+    <word seq="17">tradition from your fathers;<GreekSeq>14</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="19">
+   <KJV>
+    <word seq="1">But<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">with the<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="3">precious<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="4">blood<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="5">of Christ,<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="6">as<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="7">of a lamb<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="8">without blemish<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="9">and<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="10">without spot:<GreekSeq>8</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="20">
+   <KJV>
+    <word seq="1">Who<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">verily<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">was foreordained<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="4">before<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="5">the foundation of <GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">the world,<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="7">but<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="8">was manifest<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="9">in<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="10">these<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">last<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="12">times<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">for<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="14">you,<GreekSeq>13</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="21">
+   <KJV>
+    <word seq="1">Who<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">by<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">him<GreekSeq>3</GreekSeq>
+    </word>
+    <word note="Base of different Greek: πιστεύοντας(4100)" seq="4">do believe<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">in<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="6">God,<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">that raised<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="8">him<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="9">up<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="10">from<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">the dead,<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="12">and<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="13">gave<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="14">him<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="15">glory;<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="16">that<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="17">your<GreekSeq>19</GreekSeq>
+    </word>
+    <word seq="18">faith<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="19">and<GreekSeq>20</GreekSeq>
+    </word>
+    <word seq="20">hope<GreekSeq>21</GreekSeq>
+    </word>
+    <word seq="21">might be<GreekSeq>22</GreekSeq>
+    </word>
+    <word seq="22">in<GreekSeq>23</GreekSeq>
+    </word>
+    <word seq="23">God.<GreekSeq>24</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="22">
+   <KJV>
+    <word seq="1">Seeing ye have purified<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="2">your<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="3">souls<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="4">in<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="5">obeying<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="6">the<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="7">truth<GreekSeq>9</GreekSeq>
+    </word>
+    <word note="Base of different Greek: διὰ(1223)" seq="8">through</word>
+    <word note="Base of different Greek: Πνεύματος(4151)" seq="9">the Spirit</word>
+    <word seq="10">unto<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="11">unfeigned<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="12">love of the brethren,<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">see that</word>
+    <word seq="14">ye love<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="15">one another<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="16">with<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="17">a pure<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="18">heart<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="19">fervently:<GreekSeq>18</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="23">
+   <KJV>
+    <word seq="1">Being born again,<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">not<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">of<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">corruptible<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="5">seed,<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">but<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">of incorruptible,<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="8">by<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="9">the word<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="10">of God,<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="11">which liveth<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="12">and<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="13">abideth<GreekSeq>13</GreekSeq>
+    </word>
+    <word note="Base of different Greek: εἰς(1519) &amp;  τὸν(3588) &amp;  αἰῶνα(165)" seq="14">for ever.</word>
+   </KJV>
+  </verse>
+  <verse number="24">
+   <KJV>
+    <word seq="1">For<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="2">all<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="3">flesh<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">is</word>
+    <word seq="5">as<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="6">grass,<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="7">and<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="8">all<GreekSeq>7</GreekSeq>
+    </word>
+    <word seq="9">the glory<GreekSeq>8</GreekSeq>
+    </word>
+    <word note="Base of different Greek: ἀνθρώπου(444)" seq="10">of man<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="11">as<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="12">the flower<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="13">of grass.<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="14">The<GreekSeq>14</GreekSeq>
+    </word>
+    <word seq="15">grass<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="16">withereth,<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="17">and<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="18">the<GreekSeq>17</GreekSeq>
+    </word>
+    <word seq="19">flower<GreekSeq>18</GreekSeq>
+    </word>
+    <word seq="20">thereof</word>
+    <word seq="21">falleth away:<GreekSeq>19</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+  <verse number="25">
+   <KJV>
+    <word seq="1">But<GreekSeq>2</GreekSeq>
+    </word>
+    <word seq="2">the<GreekSeq>1</GreekSeq>
+    </word>
+    <word seq="3">word<GreekSeq>3</GreekSeq>
+    </word>
+    <word seq="4">of the Lord<GreekSeq>4</GreekSeq>
+    </word>
+    <word seq="5">endureth<GreekSeq>5</GreekSeq>
+    </word>
+    <word seq="6">for<GreekSeq>6</GreekSeq>
+    </word>
+    <word seq="7">ever.<GreekSeq>8</GreekSeq>
+    </word>
+    <word seq="8">And<GreekSeq>10</GreekSeq>
+    </word>
+    <word seq="9">this<GreekSeq>9</GreekSeq>
+    </word>
+    <word seq="10">is<GreekSeq>11</GreekSeq>
+    </word>
+    <word seq="11">the<GreekSeq>12</GreekSeq>
+    </word>
+    <word seq="12">word<GreekSeq>13</GreekSeq>
+    </word>
+    <word seq="13">which by the gospel is preached<GreekSeq>15</GreekSeq>
+    </word>
+    <word seq="14">unto<GreekSeq>16</GreekSeq>
+    </word>
+    <word seq="15">you.<GreekSeq>17</GreekSeq>
+    </word>
+   </KJV>
+  </verse>
+ </chapter>
+</book>

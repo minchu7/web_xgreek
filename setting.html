@@ -1,0 +1,201 @@
+<ons-page id="setting">
+	<ons-toolbar class="myToolbar">
+		<div class="left"><ons-back-button id='SettingBackBT'><div uilang="Back"></div></ons-back-button></div>
+		<div class="center" uilang="Settings"></div>
+    </ons-toolbar>
+    <div style="max-width:400px; margin:auto;-webkit-box-shadow: 0 0 12px rgba(0,0,0,.6);
+    -moz-box-shadow: 0 0 12px rgba(0,0,0,.6);text-align: center;">
+	<ons-row style="margin:2px;">
+		<ons-col width="100px">
+			<label uilang="Language"></label>
+		</ons-col>
+		<ons-col>
+			 <fieldset style="height:16px;" onchange="changeDisplayLang();">
+				<input name="radio_language" type="radio" id="radio-opt-english" value="E">
+				English
+				<input name="radio_language" type="radio" id="radio-opt-simplified" value="S">
+				简体
+				<input name="radio_language" type="radio" id="radio-opt-chinese" value="C">
+				繁體
+			</fieldset>
+		</ons-col>
+	</ons-row>
+	<ons-row style="border: 1px solid LightGrey;">
+	</ons-row>
+	<ons-row>
+		<ons-col>
+			<label uilang="book"></label>
+		</ons-col>
+		<ons-col>
+			<ons-select onchange="FillChapters();" name="f_BookNo" id="bookCB">
+				<option value="Matt">馬太福音</option>
+				<option value="Mark">馬可福音</option>
+				<option value="Luke">路加福音</option>
+				<option value="John">約翰福音</option>
+				<option value="Acts">使徒行傳</option>
+				<option value="Rom">羅馬書</option>
+				<option value="1Cor">哥林多前書</option>
+				<option value="2Cor">哥林多後書</option>
+				<option value="Gal" selected>加拉太書</option>
+				<option value="Eph">以弗所書</option>
+				<option value="Phil">腓立比書</option>
+				<option value="Col">歌羅西書</option>
+				<option value="1The">帖撒羅尼迦前書</option>
+				<option value="2The">帖撒羅尼迦後書</option>
+				<option value="1Tim">提摩太前書</option>
+				<option value="2Tim">提摩太後書</option>
+				<option value="Tit">提多書</option>
+				<option value="Phlm">腓利門書</option>
+				<option value="Heb">希伯來書</option>
+				<option value="Jas">雅各書</option>
+				<option value="1Pet">彼得前書</option>
+				<option value="2Pet">彼得後書</option>
+				<option value="1John">約翰一書</option>
+				<option value="2John">約翰二書</option>
+				<option value="3John">約翰三書</option>
+				<option value="Jude">猶大書</option>
+				<option value="Rev">啟示錄</option>
+			</ons-select>
+		</ons-col>
+	</ons-row>
+	<ons-row>
+		<ons-col>
+			<label uilang="chapter"></label>
+		</ons-col>
+		<ons-col>
+			<ons-select onchange="FillVerses();" id="chapterCB"></ons-select>
+		</ons-col>
+	</ons-row>
+	<ons-row>
+		<ons-col>
+			<label uilang="verse"></label>
+		</ons-col>
+		<ons-col>
+			<ons-select id="verseCB"></ons-select>
+		</ons-col>
+	</ons-row>
+	<ons-row>
+		<ons-col>
+		</ons-col>
+		<ons-col>
+			<ons-button id="GoVerseBt" onclick="goVerse(true);" style="margin: 5px;text-align: center;" uilang="Go_to_Verse"></ons-button>
+		</ons-col>
+	</ons-row>
+	<ons-row style="border: 1px solid LightGrey;">
+	</ons-row>
+	<ons-row>
+		<ons-col>
+			<label uilang="Arrange_display_layout"></label>
+		</ons-col>
+		<ons-col>
+			<ons-button id="ShowSettingBt" onclick="showNewSetting(event);" uilang="Show_new_setting"></ons-button>
+		</ons-col>
+	</ons-row>
+	<div id="showNewSetting">
+		<ons-row>
+			<ons-col>
+				<label uilang="Line1"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 0);" id="LanRow1"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line2"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 1);" id="LanRow2"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line3"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 2);" id="LanRow3"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line4"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 3);" id="LanRow4"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line5"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 4);" id="LanRow5"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line6"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 5);" id="LanRow6"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line7"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 6);" id="LanRow7"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line8"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 7);" id="LanRow8"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line9"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 8);" id="LanRow9"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line10"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 9);" id="LanRow10"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line11"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 10);" id="LanRow11"></select>
+			</ons-col>
+		</ons-row>
+		<ons-row>
+			<ons-col>
+				<label uilang="Line12"></label>
+			</ons-col>
+			<ons-col>
+				<ons-select onchange="selectLanChange( this, 11);" id="LanRow12"></select>
+			</ons-col>
+		</ons-row>
+	</div>
+	</div>
+	<script>
+		ons.getScriptPage().onInit = function() {
+			// Set up page's content or anything else
+			this.onShow = function(){
+				InitSetting();
+			};
+		};
+    </script>
+</ons-page>

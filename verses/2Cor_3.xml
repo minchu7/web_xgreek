@@ -1,0 +1,5073 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<book>
+ <chapter book="null" number="3">
+  <verse number="1">
+   <column>
+    <Greek>
+     <word seq="1">Ἀρχόμεθα</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ἄρχω</word>
+    </Lema>
+    <Morph>
+     <word seq="1">vipm1p</word>
+    </Morph>
+    <Strong>
+     <word seq="1">756</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">68.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">πάλιν</word>
+    </Greek>
+    <Lema>
+     <word seq="2">πάλιν</word>
+    </Lema>
+    <Morph>
+     <word seq="2">b</word>
+    </Morph>
+    <Strong>
+     <word seq="2">3825</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">67.55</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">ἑαυτοὺς</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ἑαυτοῦ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">rx1amp</word>
+    </Morph>
+    <Strong>
+     <word seq="3">1438</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.25</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">συνιστάνειν;</word>
+    </Greek>
+    <Lema>
+     <word seq="4">συνίστημι</word>
+    </Lema>
+    <Morph>
+     <word seq="4">vnpa</word>
+    </Morph>
+    <Strong>
+     <word seq="4">4921</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">33.344</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">ἢ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">ἤ</word>
+    </Lema>
+    <Morph>
+     <word seq="5">c</word>
+    </Morph>
+    <Strong>
+     <word seq="5">2228</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">89.139</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">μὴ</word>
+    </Greek>
+    <Lema>
+     <word seq="6">μή</word>
+    </Lema>
+    <Morph>
+     <word seq="6">t</word>
+    </Morph>
+    <Strong>
+     <word seq="6">3361</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">χρῄζομεν</word>
+    </Greek>
+    <Lema>
+     <word seq="7">χρῄζω</word>
+    </Lema>
+    <Morph>
+     <word seq="7">vipa1p</word>
+    </Morph>
+    <Strong>
+     <word seq="7">5535</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">57.39</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">ὥς</word>
+    </Greek>
+    <Lema>
+     <word seq="8">ὡς</word>
+    </Lema>
+    <Morph>
+     <word seq="8">p</word>
+    </Morph>
+    <Strong>
+     <word seq="8">5613</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">90.21</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">τινες</word>
+    </Greek>
+    <Lema>
+     <word seq="9">τὶς</word>
+    </Lema>
+    <Morph>
+     <word seq="9">rx-nmp</word>
+    </Morph>
+    <Strong>
+     <word seq="9">5100</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">92.12</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">συστατικῶν</word>
+    </Greek>
+    <Lema>
+     <word seq="10">συστατικός</word>
+    </Lema>
+    <Morph>
+     <word seq="10">agfp, agmp</word>
+    </Morph>
+    <Strong>
+     <word seq="10">4956</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">33.345</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">ἐπιστολῶν</word>
+    </Greek>
+    <Lema>
+     <word seq="11">ἐπιστολή</word>
+    </Lema>
+    <Morph>
+     <word seq="11">ngfp</word>
+    </Morph>
+    <Strong>
+     <word seq="11">1992</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">6.63</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">πρὸς</word>
+    </Greek>
+    <Lema>
+     <word seq="12">πρός</word>
+    </Lema>
+    <Morph>
+     <word seq="12">p</word>
+    </Morph>
+    <Strong>
+     <word seq="12">4314</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">90.58</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">ὑμᾶς</word>
+    </Greek>
+    <Lema>
+     <word seq="13">σύ</word>
+    </Lema>
+    <Morph>
+     <word seq="13">rp2a_p</word>
+    </Morph>
+    <Strong>
+     <word seq="13">5209</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">92.7</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">ἢ</word>
+    </Greek>
+    <Lema>
+     <word seq="14">ἤ</word>
+    </Lema>
+    <Morph>
+     <word seq="14">c</word>
+    </Morph>
+    <Strong>
+     <word seq="14">2228</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">89.139</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">ἐξ</word>
+    </Greek>
+    <Lema>
+     <word seq="15">ἐκ</word>
+    </Lema>
+    <Morph>
+     <word seq="15">p</word>
+    </Morph>
+    <Strong>
+     <word seq="15">1537</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">90.16</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">ὑμῶν;</word>
+    </Greek>
+    <Lema>
+     <word seq="16">σύ</word>
+    </Lema>
+    <Morph>
+     <word seq="16">rp2g_p</word>
+    </Morph>
+    <Strong>
+     <word seq="16">5216</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">92.7</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="2">
+   <column>
+    <Greek>
+     <word seq="1">ἡ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="1">dnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="1">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">ἐπιστολὴ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">ἐπιστολή</word>
+    </Lema>
+    <Morph>
+     <word seq="2">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1992</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">6.63</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">ἡμῶν</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ἐγώ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">rp1g_p</word>
+    </Morph>
+    <Strong>
+     <word seq="3">2257</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ὑμεῖς</word>
+    </Greek>
+    <Lema>
+     <word seq="4">σύ</word>
+    </Lema>
+    <Morph>
+     <word seq="4">rp2n_p</word>
+    </Morph>
+    <Strong>
+     <word seq="4">5210</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">92.7</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">ἐστε,</word>
+    </Greek>
+    <Lema>
+     <word seq="5">εἰμί</word>
+    </Lema>
+    <Morph>
+     <word seq="5">vipa2p</word>
+    </Morph>
+    <Strong>
+     <word seq="5">2075</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">13.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">ἐγγεγραμμένη</word>
+    </Greek>
+    <Lema>
+     <word seq="6">ἐγγράφω</word>
+    </Lema>
+    <Morph>
+     <word seq="6">vpxp-nfs</word>
+    </Morph>
+    <Strong>
+     <word seq="6">1449</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">33.62</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="7">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="7">p</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">83.13</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">ταῖς</word>
+    </Greek>
+    <Lema>
+     <word seq="8">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="8">ddfp</word>
+    </Morph>
+    <Strong>
+     <word seq="8">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">καρδίαις</word>
+    </Greek>
+    <Lema>
+     <word seq="9">καρδία</word>
+    </Lema>
+    <Morph>
+     <word seq="9">ndfp</word>
+    </Morph>
+    <Strong>
+     <word seq="9">2588</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">26.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">ἡμῶν,</word>
+    </Greek>
+    <Lema>
+     <word seq="10">ἐγώ</word>
+    </Lema>
+    <Morph>
+     <word seq="10">rp1g_p</word>
+    </Morph>
+    <Strong>
+     <word seq="10">2257</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">92.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">γινωσκομένη</word>
+    </Greek>
+    <Lema>
+     <word seq="11">γινώσκω</word>
+    </Lema>
+    <Morph>
+     <word seq="11">vppp-nfs</word>
+    </Morph>
+    <Strong>
+     <word seq="11">1097</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">28.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">καὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="12">καί</word>
+    </Lema>
+    <Morph>
+     <word seq="12">c</word>
+    </Morph>
+    <Strong>
+     <word seq="12">2532</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">89.92</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">ἀναγινωσκομένη</word>
+    </Greek>
+    <Lema>
+     <word seq="13">ἀναγινώσκω</word>
+    </Lema>
+    <Morph>
+     <word seq="13">vppp-nfs</word>
+    </Morph>
+    <Strong>
+     <word seq="13">314</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">33.68</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">ὑπὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="14">ὑπό</word>
+    </Lema>
+    <Morph>
+     <word seq="14">p</word>
+    </Morph>
+    <Strong>
+     <word seq="14">5259</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">90.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">πάντων</word>
+    </Greek>
+    <Lema>
+     <word seq="15">πᾶς</word>
+    </Lema>
+    <Morph>
+     <word seq="15">agmp</word>
+    </Morph>
+    <Strong>
+     <word seq="15">3956</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">59.23</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">ἀνθρώπων,</word>
+    </Greek>
+    <Lema>
+     <word seq="16">ἄνθρωπος</word>
+    </Lema>
+    <Morph>
+     <word seq="16">ngmp</word>
+    </Morph>
+    <Strong>
+     <word seq="16">444</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">9.1</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="3">
+   <column>
+    <Greek>
+     <word seq="1">φανερούμενοι</word>
+    </Greek>
+    <Lema>
+     <word seq="1">φανερόω</word>
+    </Lema>
+    <Morph>
+     <word seq="1">vppp-nmp</word>
+    </Morph>
+    <Strong>
+     <word seq="1">5319</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">24.19</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">ὅτι</word>
+    </Greek>
+    <Lema>
+     <word seq="2">ὅτι</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">3754</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">90.21</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">ἐστὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">εἰμί</word>
+    </Lema>
+    <Morph>
+     <word seq="3">vipa2p</word>
+    </Morph>
+    <Strong>
+     <word seq="3">2075</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">13.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἐπιστολὴ</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἐπιστολή</word>
+    </Lema>
+    <Morph>
+     <word seq="4">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="4">1992</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">6.63</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">Χριστοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">Χριστός</word>
+    </Lema>
+    <Morph>
+     <word seq="5">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="5">5547</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">93.387</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">διακονηθεῖσα</word>
+    </Greek>
+    <Lema>
+     <word seq="6">διακονέω</word>
+    </Lema>
+    <Morph>
+     <word seq="6">vpap-nfs</word>
+    </Morph>
+    <Strong>
+     <word seq="6">1247</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">35.19</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">ὑφʼ</word>
+    </Greek>
+    <Lema>
+     <word seq="7">ὑπό</word>
+    </Lema>
+    <Morph>
+     <word seq="7">p</word>
+    </Morph>
+    <Strong>
+     <word seq="7">5259</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">90.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">ἡμῶν,</word>
+    </Greek>
+    <Lema>
+     <word seq="8">ἐγώ</word>
+    </Lema>
+    <Morph>
+     <word seq="8">rp1g_p</word>
+    </Morph>
+    <Strong>
+     <word seq="8">2257</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">92.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">ἐγγεγραμμένη</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ἐγγράφω</word>
+    </Lema>
+    <Morph>
+     <word seq="9">vpxp-nfs</word>
+    </Morph>
+    <Strong>
+     <word seq="9">1449</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">33.62</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">οὐ</word>
+    </Greek>
+    <Lema>
+     <word seq="10">οὐ</word>
+    </Lema>
+    <Morph>
+     <word seq="10">c</word>
+    </Morph>
+    <Strong>
+     <word seq="10">3756</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">μέλανι</word>
+    </Greek>
+    <Lema>
+     <word seq="11">μέλας</word>
+    </Lema>
+    <Morph>
+     <word seq="11">adns</word>
+    </Morph>
+    <Strong>
+     <word seq="11">3188</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">6.57</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">ἀλλὰ</word>
+    </Greek>
+    <Lema>
+     <word seq="12">ἀλλά</word>
+    </Lema>
+    <Morph>
+     <word seq="12">c</word>
+    </Morph>
+    <Strong>
+     <word seq="12">235</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">89.125</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">πνεύματι</word>
+    </Greek>
+    <Lema>
+     <word seq="13">πνεῦμα</word>
+    </Lema>
+    <Morph>
+     <word seq="13">ndns</word>
+    </Morph>
+    <Strong>
+     <word seq="13">4151</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">12.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">θεοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="14">θεός</word>
+    </Lema>
+    <Morph>
+     <word seq="14">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="14">2316</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">12.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">ζῶντος,</word>
+    </Greek>
+    <Lema>
+     <word seq="15">ζάω</word>
+    </Lema>
+    <Morph>
+     <word seq="15">vppa-gms</word>
+    </Morph>
+    <Strong>
+     <word seq="15">2198</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">23.88</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">οὐκ</word>
+    </Greek>
+    <Lema>
+     <word seq="16">οὐ</word>
+    </Lema>
+    <Morph>
+     <word seq="16">c</word>
+    </Morph>
+    <Strong>
+     <word seq="16">3756</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="17">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="17">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="17">p</word>
+    </Morph>
+    <Strong>
+     <word seq="17">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="17">83.47</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="18">πλαξὶν</word>
+    </Greek>
+    <Lema>
+     <word seq="18">πλάξ</word>
+    </Lema>
+    <Morph>
+     <word seq="18">ndfp</word>
+    </Morph>
+    <Strong>
+     <word seq="18">4109</word>
+    </Strong>
+    <LMcode>
+     <word seq="18">6.61</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="19">λιθίναις</word>
+    </Greek>
+    <Lema>
+     <word seq="19">λίθινος</word>
+    </Lema>
+    <Morph>
+     <word seq="19">adfp</word>
+    </Morph>
+    <Strong>
+     <word seq="19">3035</word>
+    </Strong>
+    <LMcode>
+     <word seq="19">2.25</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="20">ἀλλʼ</word>
+    </Greek>
+    <Lema>
+     <word seq="20">ἀλλά</word>
+    </Lema>
+    <Morph>
+     <word seq="20">c</word>
+    </Morph>
+    <Strong>
+     <word seq="20">235</word>
+    </Strong>
+    <LMcode>
+     <word seq="20">89.125</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="21">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="21">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="21">p</word>
+    </Morph>
+    <Strong>
+     <word seq="21">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="21">83.47</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="22">πλαξὶν</word>
+    </Greek>
+    <Lema>
+     <word seq="22">πλάξ</word>
+    </Lema>
+    <Morph>
+     <word seq="22">ndfp</word>
+    </Morph>
+    <Strong>
+     <word seq="22">4109</word>
+    </Strong>
+    <LMcode>
+     <word seq="22">6.61</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="23">καρδίαις</word>
+    </Greek>
+    <Lema>
+     <word seq="23">καρδία</word>
+    </Lema>
+    <Morph>
+     <word seq="23">ndfp</word>
+    </Morph>
+    <Strong>
+     <word seq="23">2588</word>
+    </Strong>
+    <LMcode>
+     <word seq="23">26.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="24">σαρκίναις.</word>
+    </Greek>
+    <Lema>
+     <word seq="24">σάρκινος</word>
+    </Lema>
+    <Morph>
+     <word seq="24">adfp</word>
+    </Morph>
+    <Strong>
+     <word seq="24">4560</word>
+    </Strong>
+    <LMcode>
+     <word seq="24">79.4</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="4">
+   <column>
+    <Greek>
+     <word seq="1">Πεποίθησιν</word>
+    </Greek>
+    <Lema>
+     <word seq="1">πεποίθησις</word>
+    </Lema>
+    <Morph>
+     <word seq="1">nafs</word>
+    </Morph>
+    <Strong>
+     <word seq="1">4006</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">31.82</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">δὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">δέ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1161</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.87</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">τοιαύτην</word>
+    </Greek>
+    <Lema>
+     <word seq="3">τοιοῦτος</word>
+    </Lema>
+    <Morph>
+     <word seq="3">rd-afs</word>
+    </Morph>
+    <Strong>
+     <word seq="3">5108</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.31</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἔχομεν</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἔχω</word>
+    </Lema>
+    <Morph>
+     <word seq="4">vipa1p</word>
+    </Morph>
+    <Strong>
+     <word seq="4">2192</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">57.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">διὰ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">διά</word>
+    </Lema>
+    <Morph>
+     <word seq="5">p</word>
+    </Morph>
+    <Strong>
+     <word seq="5">1223</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">89.76</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">τοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="6">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="6">dgms</word>
+    </Morph>
+    <Strong>
+     <word seq="6">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">Χριστοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="7">Χριστός</word>
+    </Lema>
+    <Morph>
+     <word seq="7">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="7">5547</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">93.387</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">πρὸς</word>
+    </Greek>
+    <Lema>
+     <word seq="8">πρός</word>
+    </Lema>
+    <Morph>
+     <word seq="8">p</word>
+    </Morph>
+    <Strong>
+     <word seq="8">4314</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">84.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">τὸν</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="9">dams</word>
+    </Morph>
+    <Strong>
+     <word seq="9">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">θεόν.</word>
+    </Greek>
+    <Lema>
+     <word seq="10">θεός</word>
+    </Lema>
+    <Morph>
+     <word seq="10">nams</word>
+    </Morph>
+    <Strong>
+     <word seq="10">2316</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">12.1</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="5">
+   <column>
+    <Greek>
+     <word seq="1">οὐχ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">οὐ</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">3756</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">ὅτι</word>
+    </Greek>
+    <Lema>
+     <word seq="2">ὅτι</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">3754</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.33</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">ἀφʼ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ἀπό</word>
+    </Lema>
+    <Morph>
+     <word seq="3">p</word>
+    </Morph>
+    <Strong>
+     <word seq="3">575</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">90.15</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἑαυτῶν</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἑαυτοῦ</word>
+    </Lema>
+    <Morph>
+     <word seq="4">rx1gmp</word>
+    </Morph>
+    <Strong>
+     <word seq="4">1438</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">92.25</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">ἱκανοί</word>
+    </Greek>
+    <Lema>
+     <word seq="5">ἱκανός</word>
+    </Lema>
+    <Morph>
+     <word seq="5">anmp</word>
+    </Morph>
+    <Strong>
+     <word seq="5">2425</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">78.50</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">ἐσμεν</word>
+    </Greek>
+    <Lema>
+     <word seq="6">εἰμί</word>
+    </Lema>
+    <Morph>
+     <word seq="6">vipa1p</word>
+    </Morph>
+    <Strong>
+     <word seq="6">2070</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">13.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">λογίσασθαί</word>
+    </Greek>
+    <Lema>
+     <word seq="7">λογίζομαι</word>
+    </Lema>
+    <Morph>
+     <word seq="7">vnam</word>
+    </Morph>
+    <Strong>
+     <word seq="7">3049</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">30.9</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">τι</word>
+    </Greek>
+    <Lema>
+     <word seq="8">τὶς</word>
+    </Lema>
+    <Morph>
+     <word seq="8">rx-ans</word>
+    </Morph>
+    <Strong>
+     <word seq="8">5100</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">92.12</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">ὡς</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ὡς</word>
+    </Lema>
+    <Morph>
+     <word seq="9">c</word>
+    </Morph>
+    <Strong>
+     <word seq="9">5613</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">64.12</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">ἐξ</word>
+    </Greek>
+    <Lema>
+     <word seq="10">ἐκ</word>
+    </Lema>
+    <Morph>
+     <word seq="10">p</word>
+    </Morph>
+    <Strong>
+     <word seq="10">1537</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">90.16</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">ἑαυτῶν,</word>
+    </Greek>
+    <Lema>
+     <word seq="11">ἑαυτοῦ</word>
+    </Lema>
+    <Morph>
+     <word seq="11">rx1gmp</word>
+    </Morph>
+    <Strong>
+     <word seq="11">1438</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">92.25</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">ἀλλʼ</word>
+    </Greek>
+    <Lema>
+     <word seq="12">ἀλλά</word>
+    </Lema>
+    <Morph>
+     <word seq="12">c</word>
+    </Morph>
+    <Strong>
+     <word seq="12">235</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">89.125</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">ἡ</word>
+    </Greek>
+    <Lema>
+     <word seq="13">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="13">dnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="13">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">ἱκανότης</word>
+    </Greek>
+    <Lema>
+     <word seq="14">ἱκανότης</word>
+    </Lema>
+    <Morph>
+     <word seq="14">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="14">2426</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">75.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">ἡμῶν</word>
+    </Greek>
+    <Lema>
+     <word seq="15">ἐγώ</word>
+    </Lema>
+    <Morph>
+     <word seq="15">rp1g_p</word>
+    </Morph>
+    <Strong>
+     <word seq="15">2257</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">92.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">ἐκ</word>
+    </Greek>
+    <Lema>
+     <word seq="16">ἐκ</word>
+    </Lema>
+    <Morph>
+     <word seq="16">p</word>
+    </Morph>
+    <Strong>
+     <word seq="16">1537</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">90.16</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="17">τοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="17">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="17">dgms</word>
+    </Morph>
+    <Strong>
+     <word seq="17">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="17">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="18">θεοῦ,</word>
+    </Greek>
+    <Lema>
+     <word seq="18">θεός</word>
+    </Lema>
+    <Morph>
+     <word seq="18">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="18">2316</word>
+    </Strong>
+    <LMcode>
+     <word seq="18">12.1</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="6">
+   <column>
+    <Greek>
+     <word seq="1">ὃς</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ὅς</word>
+    </Lema>
+    <Morph>
+     <word seq="1">rr-nms</word>
+    </Morph>
+    <Strong>
+     <word seq="1">3739</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">92.27</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">καὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">καί</word>
+    </Lema>
+    <Morph>
+     <word seq="2">b</word>
+    </Morph>
+    <Strong>
+     <word seq="2">2532</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.93</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">ἱκάνωσεν</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ἱκανόω</word>
+    </Lema>
+    <Morph>
+     <word seq="3">viaa3s</word>
+    </Morph>
+    <Strong>
+     <word seq="3">2427</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">75.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἡμᾶς</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἐγώ</word>
+    </Lema>
+    <Morph>
+     <word seq="4">rp1a_p</word>
+    </Morph>
+    <Strong>
+     <word seq="4">2248</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">92.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">διακόνους</word>
+    </Greek>
+    <Lema>
+     <word seq="5">διάκονος</word>
+    </Lema>
+    <Morph>
+     <word seq="5">namp</word>
+    </Morph>
+    <Strong>
+     <word seq="5">1249</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">35.20</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">καινῆς</word>
+    </Greek>
+    <Lema>
+     <word seq="6">καινός</word>
+    </Lema>
+    <Morph>
+     <word seq="6">agfs</word>
+    </Morph>
+    <Strong>
+     <word seq="6">2537</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">67.115</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">διαθήκης,</word>
+    </Greek>
+    <Lema>
+     <word seq="7">διαθήκη</word>
+    </Lema>
+    <Morph>
+     <word seq="7">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1242</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">34.43</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">οὐ</word>
+    </Greek>
+    <Lema>
+     <word seq="8">οὐ</word>
+    </Lema>
+    <Morph>
+     <word seq="8">c</word>
+    </Morph>
+    <Strong>
+     <word seq="8">3756</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">γράμματος</word>
+    </Greek>
+    <Lema>
+     <word seq="9">γράμμα</word>
+    </Lema>
+    <Morph>
+     <word seq="9">ngns</word>
+    </Morph>
+    <Strong>
+     <word seq="9">1121</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">33.35</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">ἀλλὰ</word>
+    </Greek>
+    <Lema>
+     <word seq="10">ἀλλά</word>
+    </Lema>
+    <Morph>
+     <word seq="10">c</word>
+    </Morph>
+    <Strong>
+     <word seq="10">235</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">89.125</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">πνεύματος·</word>
+    </Greek>
+    <Lema>
+     <word seq="11">πνεῦμα</word>
+    </Lema>
+    <Morph>
+     <word seq="11">ngns</word>
+    </Morph>
+    <Strong>
+     <word seq="11">4151</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">12.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="12">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="12">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="12">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">γὰρ</word>
+    </Greek>
+    <Lema>
+     <word seq="13">γάρ</word>
+    </Lema>
+    <Morph>
+     <word seq="13">c</word>
+    </Morph>
+    <Strong>
+     <word seq="13">1063</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">89.23</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">γράμμα</word>
+    </Greek>
+    <Lema>
+     <word seq="14">γράμμα</word>
+    </Lema>
+    <Morph>
+     <word seq="14">nnns</word>
+    </Morph>
+    <Strong>
+     <word seq="14">1121</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">33.35</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">ἀποκτέννει,</word>
+    </Greek>
+    <Lema>
+     <word seq="15">ἀποκτείνω</word>
+    </Lema>
+    <Morph>
+     <word seq="15">vipa3s</word>
+    </Morph>
+    <Strong>
+     <word seq="15">615</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">13.44</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="16">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="16">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="16">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="17">δὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="17">δέ</word>
+    </Lema>
+    <Morph>
+     <word seq="17">c</word>
+    </Morph>
+    <Strong>
+     <word seq="17">1161</word>
+    </Strong>
+    <LMcode>
+     <word seq="17">89.124</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="18">πνεῦμα</word>
+    </Greek>
+    <Lema>
+     <word seq="18">πνεῦμα</word>
+    </Lema>
+    <Morph>
+     <word seq="18">nnns</word>
+    </Morph>
+    <Strong>
+     <word seq="18">4151</word>
+    </Strong>
+    <LMcode>
+     <word seq="18">12.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="19">ζῳοποιεῖ.</word>
+    </Greek>
+    <Lema>
+     <word seq="19">ζῳοποιέω</word>
+    </Lema>
+    <Morph>
+     <word seq="19">vipa3s</word>
+    </Morph>
+    <Strong>
+     <word seq="19">2227</word>
+    </Strong>
+    <LMcode>
+     <word seq="19">23.92</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="7">
+   <column>
+    <Greek>
+     <word seq="1">Εἰ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">εἰ</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">1487</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">89.65</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">δὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">δέ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1161</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.124</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">ἡ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">dnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="3">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">διακονία</word>
+    </Greek>
+    <Lema>
+     <word seq="4">διακονία</word>
+    </Lema>
+    <Morph>
+     <word seq="4">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="4">1248</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">35.19</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">τοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="5">dgms</word>
+    </Morph>
+    <Strong>
+     <word seq="5">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">θανάτου</word>
+    </Greek>
+    <Lema>
+     <word seq="6">θάνατος</word>
+    </Lema>
+    <Morph>
+     <word seq="6">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="6">2288</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">23.99</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="7">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="7">p</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">89.84</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">γράμμασιν</word>
+    </Greek>
+    <Lema>
+     <word seq="8">γράμμα</word>
+    </Lema>
+    <Morph>
+     <word seq="8">ndnp</word>
+    </Morph>
+    <Strong>
+     <word seq="8">1121</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">33.35</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">ἐντετυπωμένη</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ἐντυπόω</word>
+    </Lema>
+    <Morph>
+     <word seq="9">vpxp-nfs</word>
+    </Morph>
+    <Strong>
+     <word seq="9">1795</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">33.67</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">λίθοις</word>
+    </Greek>
+    <Lema>
+     <word seq="10">λίθος</word>
+    </Lema>
+    <Morph>
+     <word seq="10">ndmp</word>
+    </Morph>
+    <Strong>
+     <word seq="10">3037</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">2.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">ἐγενήθη</word>
+    </Greek>
+    <Lema>
+     <word seq="11">γίνομαι</word>
+    </Lema>
+    <Morph>
+     <word seq="11">viap3s</word>
+    </Morph>
+    <Strong>
+     <word seq="11">1096</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">13.48</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="12">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="12">p</word>
+    </Morph>
+    <Strong>
+     <word seq="12">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">89.84</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">δόξῃ,</word>
+    </Greek>
+    <Lema>
+     <word seq="13">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="13">ndfs</word>
+    </Morph>
+    <Strong>
+     <word seq="13">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">79.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">ὥστε</word>
+    </Greek>
+    <Lema>
+     <word seq="14">ὥστε</word>
+    </Lema>
+    <Morph>
+     <word seq="14">c</word>
+    </Morph>
+    <Strong>
+     <word seq="14">5620</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">89.52</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">μὴ</word>
+    </Greek>
+    <Lema>
+     <word seq="15">μή</word>
+    </Lema>
+    <Morph>
+     <word seq="15">b</word>
+    </Morph>
+    <Strong>
+     <word seq="15">3361</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">δύνασθαι</word>
+    </Greek>
+    <Lema>
+     <word seq="16">δύναμαι</word>
+    </Lema>
+    <Morph>
+     <word seq="16">vnpu</word>
+    </Morph>
+    <Strong>
+     <word seq="16">1410</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">74.5</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="17">ἀτενίσαι</word>
+    </Greek>
+    <Lema>
+     <word seq="17">ἀτενίζω</word>
+    </Lema>
+    <Morph>
+     <word seq="17">vnaa</word>
+    </Morph>
+    <Strong>
+     <word seq="17">816</word>
+    </Strong>
+    <LMcode>
+     <word seq="17">24.49</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="18">τοὺς</word>
+    </Greek>
+    <Lema>
+     <word seq="18">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="18">damp</word>
+    </Morph>
+    <Strong>
+     <word seq="18">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="18">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="19">υἱοὺς</word>
+    </Greek>
+    <Lema>
+     <word seq="19">υἱός</word>
+    </Lema>
+    <Morph>
+     <word seq="19">namp</word>
+    </Morph>
+    <Strong>
+     <word seq="19">5207</word>
+    </Strong>
+    <LMcode>
+     <word seq="19">11.58</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="20">Ἰσραὴλ</word>
+    </Greek>
+    <Lema>
+     <word seq="20">Ἰσραήλ</word>
+    </Lema>
+    <Morph>
+     <word seq="20">nx</word>
+    </Morph>
+    <Strong>
+     <word seq="20">2474</word>
+    </Strong>
+    <LMcode>
+     <word seq="20">11.58</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="21">εἰς</word>
+    </Greek>
+    <Lema>
+     <word seq="21">εἰς</word>
+    </Lema>
+    <Morph>
+     <word seq="21">p</word>
+    </Morph>
+    <Strong>
+     <word seq="21">1519</word>
+    </Strong>
+    <LMcode>
+     <word seq="21">84.22</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="22">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="22">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="22">dans</word>
+    </Morph>
+    <Strong>
+     <word seq="22">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="22">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="23">πρόσωπον</word>
+    </Greek>
+    <Lema>
+     <word seq="23">πρόσωπον</word>
+    </Lema>
+    <Morph>
+     <word seq="23">nans</word>
+    </Morph>
+    <Strong>
+     <word seq="23">4383</word>
+    </Strong>
+    <LMcode>
+     <word seq="23">8.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="24">Μωϋσέως</word>
+    </Greek>
+    <Lema>
+     <word seq="24">Μωϋσῆς</word>
+    </Lema>
+    <Morph>
+     <word seq="24">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="24">3475</word>
+    </Strong>
+    <LMcode>
+     <word seq="24">93.266</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="25">διὰ</word>
+    </Greek>
+    <Lema>
+     <word seq="25">διά</word>
+    </Lema>
+    <Morph>
+     <word seq="25">p</word>
+    </Morph>
+    <Strong>
+     <word seq="25">1223</word>
+    </Strong>
+    <LMcode>
+     <word seq="25">90.44</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="26">τὴν</word>
+    </Greek>
+    <Lema>
+     <word seq="26">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="26">dafs</word>
+    </Morph>
+    <Strong>
+     <word seq="26">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="26">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="27">δόξαν</word>
+    </Greek>
+    <Lema>
+     <word seq="27">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="27">nafs</word>
+    </Morph>
+    <Strong>
+     <word seq="27">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="27">79.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="28">τοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="28">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="28">dgns</word>
+    </Morph>
+    <Strong>
+     <word seq="28">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="28">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="29">προσώπου</word>
+    </Greek>
+    <Lema>
+     <word seq="29">πρόσωπον</word>
+    </Lema>
+    <Morph>
+     <word seq="29">ngns</word>
+    </Morph>
+    <Strong>
+     <word seq="29">4383</word>
+    </Strong>
+    <LMcode>
+     <word seq="29">8.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="30">αὐτοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="30">αὐτός</word>
+    </Lema>
+    <Morph>
+     <word seq="30">rp3gms</word>
+    </Morph>
+    <Strong>
+     <word seq="30">846</word>
+    </Strong>
+    <LMcode>
+     <word seq="30">92.11</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="31">τὴν</word>
+    </Greek>
+    <Lema>
+     <word seq="31">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="31">dafs</word>
+    </Morph>
+    <Strong>
+     <word seq="31">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="31">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="32">καταργουμένην,</word>
+    </Greek>
+    <Lema>
+     <word seq="32">καταργέω</word>
+    </Lema>
+    <Morph>
+     <word seq="32">vppp-afs</word>
+    </Morph>
+    <Strong>
+     <word seq="32">2673</word>
+    </Strong>
+    <LMcode>
+     <word seq="32">13.162</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="8">
+   <column>
+    <Greek>
+     <word seq="1">πῶς</word>
+    </Greek>
+    <Lema>
+     <word seq="1">πῶς</word>
+    </Lema>
+    <Morph>
+     <word seq="1">b</word>
+    </Morph>
+    <Strong>
+     <word seq="1">4459</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">92.16</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">οὐχὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">οὐχί</word>
+    </Lema>
+    <Morph>
+     <word seq="2">b</word>
+    </Morph>
+    <Strong>
+     <word seq="2">3780</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">69.4</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">μᾶλλον</word>
+    </Greek>
+    <Lema>
+     <word seq="3">μᾶλλον</word>
+    </Lema>
+    <Morph>
+     <word seq="3">b</word>
+    </Morph>
+    <Strong>
+     <word seq="3">3123</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">78.28</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἡ</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="4">dnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="4">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">διακονία</word>
+    </Greek>
+    <Lema>
+     <word seq="5">διακονία</word>
+    </Lema>
+    <Morph>
+     <word seq="5">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="5">1248</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">35.19</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">τοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="6">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="6">dgns</word>
+    </Morph>
+    <Strong>
+     <word seq="6">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">πνεύματος</word>
+    </Greek>
+    <Lema>
+     <word seq="7">πνεῦμα</word>
+    </Lema>
+    <Morph>
+     <word seq="7">ngns</word>
+    </Morph>
+    <Strong>
+     <word seq="7">4151</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">12.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">ἔσται</word>
+    </Greek>
+    <Lema>
+     <word seq="8">εἰμί</word>
+    </Lema>
+    <Morph>
+     <word seq="8">vifm3s</word>
+    </Morph>
+    <Strong>
+     <word seq="8">2071</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">13.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="9">p</word>
+    </Morph>
+    <Strong>
+     <word seq="9">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">89.84</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">δόξῃ;</word>
+    </Greek>
+    <Lema>
+     <word seq="10">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="10">ndfs</word>
+    </Morph>
+    <Strong>
+     <word seq="10">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">79.18</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="9">
+   <column>
+    <Greek>
+     <word seq="1">εἰ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">εἰ</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">1487</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">89.65</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">γὰρ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">γάρ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1063</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.23</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">τῇ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">ddfs</word>
+    </Morph>
+    <Strong>
+     <word seq="3">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">διακονίᾳ</word>
+    </Greek>
+    <Lema>
+     <word seq="4">διακονία</word>
+    </Lema>
+    <Morph>
+     <word seq="4">ndfs, nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="4">1248</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">35.19</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">τῆς</word>
+    </Greek>
+    <Lema>
+     <word seq="5">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="5">dgfs</word>
+    </Morph>
+    <Strong>
+     <word seq="5">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">κατακρίσεως</word>
+    </Greek>
+    <Lema>
+     <word seq="6">κατάκρισις</word>
+    </Lema>
+    <Morph>
+     <word seq="6">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="6">2633</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">56.31</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">δόξα,</word>
+    </Greek>
+    <Lema>
+     <word seq="7">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="7">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">79.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">πολλῷ</word>
+    </Greek>
+    <Lema>
+     <word seq="8">πολύς</word>
+    </Lema>
+    <Morph>
+     <word seq="8">adns, adms</word>
+    </Morph>
+    <Strong>
+     <word seq="8">4183</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">59.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">μᾶλλον</word>
+    </Greek>
+    <Lema>
+     <word seq="9">μᾶλλον</word>
+    </Lema>
+    <Morph>
+     <word seq="9">b</word>
+    </Morph>
+    <Strong>
+     <word seq="9">3123</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">78.28</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">περισσεύει</word>
+    </Greek>
+    <Lema>
+     <word seq="10">περισσεύω</word>
+    </Lema>
+    <Morph>
+     <word seq="10">vipa3s</word>
+    </Morph>
+    <Strong>
+     <word seq="10">4052</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">59.52</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">ἡ</word>
+    </Greek>
+    <Lema>
+     <word seq="11">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="11">dnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="11">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">διακονία</word>
+    </Greek>
+    <Lema>
+     <word seq="12">διακονία</word>
+    </Lema>
+    <Morph>
+     <word seq="12">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="12">1248</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">35.19</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">τῆς</word>
+    </Greek>
+    <Lema>
+     <word seq="13">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="13">dgfs</word>
+    </Morph>
+    <Strong>
+     <word seq="13">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">δικαιοσύνης</word>
+    </Greek>
+    <Lema>
+     <word seq="14">δικαιοσύνη</word>
+    </Lema>
+    <Morph>
+     <word seq="14">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="14">1343</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">88.13</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">δόξῃ.</word>
+    </Greek>
+    <Lema>
+     <word seq="15">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="15">ndfs</word>
+    </Morph>
+    <Strong>
+     <word seq="15">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">79.18</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="10">
+   <column>
+    <Greek>
+     <word seq="1">καὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">καί</word>
+    </Lema>
+    <Morph>
+     <word seq="1">b</word>
+    </Morph>
+    <Strong>
+     <word seq="1">2532</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">91.12</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">γὰρ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">γάρ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1063</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.23</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">οὐ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">οὐ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">b</word>
+    </Morph>
+    <Strong>
+     <word seq="3">3756</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">δεδόξασται</word>
+    </Greek>
+    <Lema>
+     <word seq="4">δοξάζω</word>
+    </Lema>
+    <Morph>
+     <word seq="4">vixp3s</word>
+    </Morph>
+    <Strong>
+     <word seq="4">1392</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">33.357</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="5">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="5">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">δεδοξασμένον</word>
+    </Greek>
+    <Lema>
+     <word seq="6">δοξάζω</word>
+    </Lema>
+    <Morph>
+     <word seq="6">vpxp-nns</word>
+    </Morph>
+    <Strong>
+     <word seq="6">1392</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">33.357</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="7">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="7">p</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">89.5</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">τούτῳ</word>
+    </Greek>
+    <Lema>
+     <word seq="8">οὗτος</word>
+    </Lema>
+    <Morph>
+     <word seq="8">rd-dns</word>
+    </Morph>
+    <Strong>
+     <word seq="8">5129</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">92.29</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">τῷ</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="9">ddns</word>
+    </Morph>
+    <Strong>
+     <word seq="9">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">μέρει</word>
+    </Greek>
+    <Lema>
+     <word seq="10">μέρος</word>
+    </Lema>
+    <Morph>
+     <word seq="10">ndns</word>
+    </Morph>
+    <Strong>
+     <word seq="10">3313</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">63.14</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">εἵνεκεν</word>
+    </Greek>
+    <Lema>
+     <word seq="11">ἕνεκα</word>
+    </Lema>
+    <Morph>
+     <word seq="11">p</word>
+    </Morph>
+    <Strong>
+     <word seq="11">1752</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">89.31</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">τῆς</word>
+    </Greek>
+    <Lema>
+     <word seq="12">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="12">dgfs</word>
+    </Morph>
+    <Strong>
+     <word seq="12">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">ὑπερβαλλούσης</word>
+    </Greek>
+    <Lema>
+     <word seq="13">ὑπερβάλλω</word>
+    </Lema>
+    <Morph>
+     <word seq="13">vppa-gfs</word>
+    </Morph>
+    <Strong>
+     <word seq="13">5235</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">78.33</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">δόξης.</word>
+    </Greek>
+    <Lema>
+     <word seq="14">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="14">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="14">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">79.18</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="11">
+   <column>
+    <Greek>
+     <word seq="1">εἰ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">εἰ</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">1487</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">89.65</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">γὰρ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">γάρ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1063</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.23</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="3">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">καταργούμενον</word>
+    </Greek>
+    <Lema>
+     <word seq="4">καταργέω</word>
+    </Lema>
+    <Morph>
+     <word seq="4">vppp-nns</word>
+    </Morph>
+    <Strong>
+     <word seq="4">2673</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">13.162</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">διὰ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">διά</word>
+    </Lema>
+    <Morph>
+     <word seq="5">p</word>
+    </Morph>
+    <Strong>
+     <word seq="5">1223</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">89.76</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">δόξης,</word>
+    </Greek>
+    <Lema>
+     <word seq="6">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="6">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="6">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">79.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">πολλῷ</word>
+    </Greek>
+    <Lema>
+     <word seq="7">πολύς</word>
+    </Lema>
+    <Morph>
+     <word seq="7">adns, adms</word>
+    </Morph>
+    <Strong>
+     <word seq="7">4183</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">59.11</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">μᾶλλον</word>
+    </Greek>
+    <Lema>
+     <word seq="8">μᾶλλον</word>
+    </Lema>
+    <Morph>
+     <word seq="8">b</word>
+    </Morph>
+    <Strong>
+     <word seq="8">3123</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">78.28</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="9">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="9">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">μένον</word>
+    </Greek>
+    <Lema>
+     <word seq="10">μένω</word>
+    </Lema>
+    <Morph>
+     <word seq="10">vppa-nns</word>
+    </Morph>
+    <Strong>
+     <word seq="10">3306</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">13.89</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="11">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="11">p</word>
+    </Morph>
+    <Strong>
+     <word seq="11">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">89.84</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">δόξῃ.</word>
+    </Greek>
+    <Lema>
+     <word seq="12">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="12">ndfs</word>
+    </Morph>
+    <Strong>
+     <word seq="12">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">79.18</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="12">
+   <column>
+    <Greek>
+     <word seq="1">Ἔχοντες</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ἔχω</word>
+    </Lema>
+    <Morph>
+     <word seq="1">vppa-nmp</word>
+    </Morph>
+    <Strong>
+     <word seq="1">2192</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">57.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">οὖν</word>
+    </Greek>
+    <Lema>
+     <word seq="2">οὖν</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">3767</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.50</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">τοιαύτην</word>
+    </Greek>
+    <Lema>
+     <word seq="3">τοιοῦτος</word>
+    </Lema>
+    <Morph>
+     <word seq="3">aafs, rd-afs</word>
+    </Morph>
+    <Strong>
+     <word seq="3">5108</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.31</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἐλπίδα</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἐλπίς</word>
+    </Lema>
+    <Morph>
+     <word seq="4">nafs</word>
+    </Morph>
+    <Strong>
+     <word seq="4">1680</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">25.59</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">πολλῇ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">πολύς</word>
+    </Lema>
+    <Morph>
+     <word seq="5">adfs</word>
+    </Morph>
+    <Strong>
+     <word seq="5">4183</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">59.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">παρρησίᾳ</word>
+    </Greek>
+    <Lema>
+     <word seq="6">παρρησία</word>
+    </Lema>
+    <Morph>
+     <word seq="6">ndfs</word>
+    </Morph>
+    <Strong>
+     <word seq="6">3954</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">25.158</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">χρώμεθα</word>
+    </Greek>
+    <Lema>
+     <word seq="7">χράομαι</word>
+    </Lema>
+    <Morph>
+     <word seq="7">vipu1p</word>
+    </Morph>
+    <Strong>
+     <word seq="7">5530</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">41.4</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="13">
+   <column>
+    <Greek>
+     <word seq="1">καὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">καί</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">2532</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">89.87</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">οὐ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">οὐ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">b</word>
+    </Morph>
+    <Strong>
+     <word seq="2">3756</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">καθάπερ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">καθάπερ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">c</word>
+    </Morph>
+    <Strong>
+     <word seq="3">2509</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">64.15</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">Μωϋσῆς</word>
+    </Greek>
+    <Lema>
+     <word seq="4">Μωϋσῆς</word>
+    </Lema>
+    <Morph>
+     <word seq="4">nnms</word>
+    </Morph>
+    <Strong>
+     <word seq="4">3475</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">93.266</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">ἐτίθει</word>
+    </Greek>
+    <Lema>
+     <word seq="5">τίθημι</word>
+    </Lema>
+    <Morph>
+     <word seq="5">viia3s</word>
+    </Morph>
+    <Strong>
+     <word seq="5">5087</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">85.32</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">κάλυμμα</word>
+    </Greek>
+    <Lema>
+     <word seq="6">κάλυμμα</word>
+    </Lema>
+    <Morph>
+     <word seq="6">nans</word>
+    </Morph>
+    <Strong>
+     <word seq="6">2571</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">6.177</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">ἐπὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="7">ἐπί</word>
+    </Lema>
+    <Morph>
+     <word seq="7">p</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1909</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">83.46</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="8">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="8">dans</word>
+    </Morph>
+    <Strong>
+     <word seq="8">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">πρόσωπον</word>
+    </Greek>
+    <Lema>
+     <word seq="9">πρόσωπον</word>
+    </Lema>
+    <Morph>
+     <word seq="9">nans</word>
+    </Morph>
+    <Strong>
+     <word seq="9">4383</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">8.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">αὐτοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="10">αὐτός</word>
+    </Lema>
+    <Morph>
+     <word seq="10">rp3gms</word>
+    </Morph>
+    <Strong>
+     <word seq="10">846</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">92.11</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">πρὸς</word>
+    </Greek>
+    <Lema>
+     <word seq="11">πρός</word>
+    </Lema>
+    <Morph>
+     <word seq="11">p</word>
+    </Morph>
+    <Strong>
+     <word seq="11">4314</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">89.60</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="12">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="12">dans</word>
+    </Morph>
+    <Strong>
+     <word seq="12">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">μὴ</word>
+    </Greek>
+    <Lema>
+     <word seq="13">μή</word>
+    </Lema>
+    <Morph>
+     <word seq="13">b</word>
+    </Morph>
+    <Strong>
+     <word seq="13">3361</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">89.62</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">ἀτενίσαι</word>
+    </Greek>
+    <Lema>
+     <word seq="14">ἀτενίζω</word>
+    </Lema>
+    <Morph>
+     <word seq="14">vnaa</word>
+    </Morph>
+    <Strong>
+     <word seq="14">816</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">24.49</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">τοὺς</word>
+    </Greek>
+    <Lema>
+     <word seq="15">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="15">damp</word>
+    </Morph>
+    <Strong>
+     <word seq="15">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">υἱοὺς</word>
+    </Greek>
+    <Lema>
+     <word seq="16">υἱός</word>
+    </Lema>
+    <Morph>
+     <word seq="16">namp</word>
+    </Morph>
+    <Strong>
+     <word seq="16">5207</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">11.58</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="17">Ἰσραὴλ</word>
+    </Greek>
+    <Lema>
+     <word seq="17">Ἰσραήλ</word>
+    </Lema>
+    <Morph>
+     <word seq="17">nx</word>
+    </Morph>
+    <Strong>
+     <word seq="17">2474</word>
+    </Strong>
+    <LMcode>
+     <word seq="17">11.58</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="18">εἰς</word>
+    </Greek>
+    <Lema>
+     <word seq="18">εἰς</word>
+    </Lema>
+    <Morph>
+     <word seq="18">p</word>
+    </Morph>
+    <Strong>
+     <word seq="18">1519</word>
+    </Strong>
+    <LMcode>
+     <word seq="18">84.16</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="19">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="19">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="19">dans</word>
+    </Morph>
+    <Strong>
+     <word seq="19">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="19">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="20">τέλος</word>
+    </Greek>
+    <Lema>
+     <word seq="20">τέλος</word>
+    </Lema>
+    <Morph>
+     <word seq="20">nans</word>
+    </Morph>
+    <Strong>
+     <word seq="20">5056</word>
+    </Strong>
+    <LMcode>
+     <word seq="20">67.66</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="21">τοῦ</word>
+    </Greek>
+    <Lema>
+     <word seq="21">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="21">dgns</word>
+    </Morph>
+    <Strong>
+     <word seq="21">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="21">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="22">καταργουμένου.</word>
+    </Greek>
+    <Lema>
+     <word seq="22">καταργέω</word>
+    </Lema>
+    <Morph>
+     <word seq="22">vppp-gns</word>
+    </Morph>
+    <Strong>
+     <word seq="22">2673</word>
+    </Strong>
+    <LMcode>
+     <word seq="22">13.162</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="14">
+   <column>
+    <Greek>
+     <word seq="1">ἀλλὰ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ἀλλά</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">235</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">89.125</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">ἐπωρώθη</word>
+    </Greek>
+    <Lema>
+     <word seq="2">πωρόω</word>
+    </Lema>
+    <Morph>
+     <word seq="2">viap3s</word>
+    </Morph>
+    <Strong>
+     <word seq="2">4456</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">27.51</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">τὰ</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="3">dnnp</word>
+    </Morph>
+    <Strong>
+     <word seq="3">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">νοήματα</word>
+    </Greek>
+    <Lema>
+     <word seq="4">νόημα</word>
+    </Lema>
+    <Morph>
+     <word seq="4">nnnp</word>
+    </Morph>
+    <Strong>
+     <word seq="4">3540</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">26.14</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">αὐτῶν.</word>
+    </Greek>
+    <Lema>
+     <word seq="5">αὐτός</word>
+    </Lema>
+    <Morph>
+     <word seq="5">rp3gmp</word>
+    </Morph>
+    <Strong>
+     <word seq="5">846</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">92.11</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">ἄχρι</word>
+    </Greek>
+    <Lema>
+     <word seq="6">ἄχρι</word>
+    </Lema>
+    <Morph>
+     <word seq="6">p</word>
+    </Morph>
+    <Strong>
+     <word seq="6">891</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">67.119</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">γὰρ</word>
+    </Greek>
+    <Lema>
+     <word seq="7">γάρ</word>
+    </Lema>
+    <Morph>
+     <word seq="7">c</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1063</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">89.23</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">τῆς</word>
+    </Greek>
+    <Lema>
+     <word seq="8">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="8">dgfs</word>
+    </Morph>
+    <Strong>
+     <word seq="8">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">σήμερον</word>
+    </Greek>
+    <Lema>
+     <word seq="9">σήμερον</word>
+    </Lema>
+    <Morph>
+     <word seq="9">b</word>
+    </Morph>
+    <Strong>
+     <word seq="9">4594</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">67.205</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">ἡμέρας</word>
+    </Greek>
+    <Lema>
+     <word seq="10">ἡμέρα</word>
+    </Lema>
+    <Morph>
+     <word seq="10">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="10">2250</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">67.178</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="11">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="11">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="11">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">αὐτὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="12">αὐτός</word>
+    </Lema>
+    <Morph>
+     <word seq="12">rp3nns, anns</word>
+    </Morph>
+    <Strong>
+     <word seq="12">846</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">58.31</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">κάλυμμα</word>
+    </Greek>
+    <Lema>
+     <word seq="13">κάλυμμα</word>
+    </Lema>
+    <Morph>
+     <word seq="13">nnns</word>
+    </Morph>
+    <Strong>
+     <word seq="13">2571</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">6.177</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">ἐπὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="14">ἐπί</word>
+    </Lema>
+    <Morph>
+     <word seq="14">p</word>
+    </Morph>
+    <Strong>
+     <word seq="14">1909</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">83.46</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">τῇ</word>
+    </Greek>
+    <Lema>
+     <word seq="15">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="15">ddfs</word>
+    </Morph>
+    <Strong>
+     <word seq="15">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">ἀναγνώσει</word>
+    </Greek>
+    <Lema>
+     <word seq="16">ἀνάγνωσις</word>
+    </Lema>
+    <Morph>
+     <word seq="16">ndfs</word>
+    </Morph>
+    <Strong>
+     <word seq="16">320</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">33.68</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="17">τῆς</word>
+    </Greek>
+    <Lema>
+     <word seq="17">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="17">dgfs</word>
+    </Morph>
+    <Strong>
+     <word seq="17">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="17">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="18">παλαιᾶς</word>
+    </Greek>
+    <Lema>
+     <word seq="18">παλαιός</word>
+    </Lema>
+    <Morph>
+     <word seq="18">agfs</word>
+    </Morph>
+    <Strong>
+     <word seq="18">3820</word>
+    </Strong>
+    <LMcode>
+     <word seq="18">67.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="19">διαθήκης</word>
+    </Greek>
+    <Lema>
+     <word seq="19">διαθήκη</word>
+    </Lema>
+    <Morph>
+     <word seq="19">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="19">1242</word>
+    </Strong>
+    <LMcode>
+     <word seq="19">34.44</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="20">μένει,</word>
+    </Greek>
+    <Lema>
+     <word seq="20">μένω</word>
+    </Lema>
+    <Morph>
+     <word seq="20">vipa3s</word>
+    </Morph>
+    <Strong>
+     <word seq="20">3306</word>
+    </Strong>
+    <LMcode>
+     <word seq="20">13.89</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="21">μὴ</word>
+    </Greek>
+    <Lema>
+     <word seq="21">μή</word>
+    </Lema>
+    <Morph>
+     <word seq="21">b</word>
+    </Morph>
+    <Strong>
+     <word seq="21">3361</word>
+    </Strong>
+    <LMcode>
+     <word seq="21">69.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="22">ἀνακαλυπτόμενον</word>
+    </Greek>
+    <Lema>
+     <word seq="22">ἀνακαλύπτω</word>
+    </Lema>
+    <Morph>
+     <word seq="22">vppp-nns</word>
+    </Morph>
+    <Strong>
+     <word seq="22">343</word>
+    </Strong>
+    <LMcode>
+     <word seq="22">79.117</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="23">ὅτι</word>
+    </Greek>
+    <Lema>
+     <word seq="23">ὅτι</word>
+    </Lema>
+    <Morph>
+     <word seq="23">c</word>
+    </Morph>
+    <Strong>
+     <word seq="23">3754</word>
+    </Strong>
+    <LMcode>
+     <word seq="23">89.33</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="24">ἐν</word>
+    </Greek>
+    <Lema>
+     <word seq="24">ἐν</word>
+    </Lema>
+    <Morph>
+     <word seq="24">p</word>
+    </Morph>
+    <Strong>
+     <word seq="24">1722</word>
+    </Strong>
+    <LMcode>
+     <word seq="24">89.5</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="25">Χριστῷ</word>
+    </Greek>
+    <Lema>
+     <word seq="25">Χριστός</word>
+    </Lema>
+    <Morph>
+     <word seq="25">ndms</word>
+    </Morph>
+    <Strong>
+     <word seq="25">5547</word>
+    </Strong>
+    <LMcode>
+     <word seq="25">93.387</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="26">καταργεῖται·</word>
+    </Greek>
+    <Lema>
+     <word seq="26">καταργέω</word>
+    </Lema>
+    <Morph>
+     <word seq="26">vipp3s</word>
+    </Morph>
+    <Strong>
+     <word seq="26">2673</word>
+    </Strong>
+    <LMcode>
+     <word seq="26">13.162</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="15">
+   <column>
+    <Greek>
+     <word seq="1">ἀλλʼ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ἀλλά</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">235</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">89.125</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">ἕως</word>
+    </Greek>
+    <Lema>
+     <word seq="2">ἕως</word>
+    </Lema>
+    <Morph>
+     <word seq="2">p</word>
+    </Morph>
+    <Strong>
+     <word seq="2">2193</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">67.119</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">σήμερον</word>
+    </Greek>
+    <Lema>
+     <word seq="3">σήμερον</word>
+    </Lema>
+    <Morph>
+     <word seq="3">b</word>
+    </Morph>
+    <Strong>
+     <word seq="3">4594</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">67.205</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἡνίκα</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἡνίκα</word>
+    </Lema>
+    <Morph>
+     <word seq="4">c</word>
+    </Morph>
+    <Strong>
+     <word seq="4">2259</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">67.36</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">ἂν</word>
+    </Greek>
+    <Lema>
+     <word seq="5">ἄν</word>
+    </Lema>
+    <Morph>
+     <word seq="5">t</word>
+    </Morph>
+    <Strong>
+     <word seq="5">302</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">67.36</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">ἀναγινώσκηται</word>
+    </Greek>
+    <Lema>
+     <word seq="6">ἀναγινώσκω</word>
+    </Lema>
+    <Morph>
+     <word seq="6">vspp3s</word>
+    </Morph>
+    <Strong>
+     <word seq="6">314</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">33.68</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">Μωϋσῆς,</word>
+    </Greek>
+    <Lema>
+     <word seq="7">Μωϋσῆς</word>
+    </Lema>
+    <Morph>
+     <word seq="7">nnms</word>
+    </Morph>
+    <Strong>
+     <word seq="7">3475</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">33.59</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">κάλυμμα</word>
+    </Greek>
+    <Lema>
+     <word seq="8">κάλυμμα</word>
+    </Lema>
+    <Morph>
+     <word seq="8">nnns</word>
+    </Morph>
+    <Strong>
+     <word seq="8">2571</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">6.177</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">ἐπὶ</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ἐπί</word>
+    </Lema>
+    <Morph>
+     <word seq="9">p</word>
+    </Morph>
+    <Strong>
+     <word seq="9">1909</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">83.46</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">τὴν</word>
+    </Greek>
+    <Lema>
+     <word seq="10">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="10">dafs</word>
+    </Morph>
+    <Strong>
+     <word seq="10">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">καρδίαν</word>
+    </Greek>
+    <Lema>
+     <word seq="11">καρδία</word>
+    </Lema>
+    <Morph>
+     <word seq="11">nafs</word>
+    </Morph>
+    <Strong>
+     <word seq="11">2588</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">26.3</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">αὐτῶν</word>
+    </Greek>
+    <Lema>
+     <word seq="12">αὐτός</word>
+    </Lema>
+    <Morph>
+     <word seq="12">rp3gmp</word>
+    </Morph>
+    <Strong>
+     <word seq="12">846</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">92.11</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">κεῖται·</word>
+    </Greek>
+    <Lema>
+     <word seq="13">κεῖμαι</word>
+    </Lema>
+    <Morph>
+     <word seq="13">vipu3s</word>
+    </Morph>
+    <Strong>
+     <word seq="13">2749</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">85.3</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="16">
+   <column>
+    <Greek>
+     <word seq="1">ἡνίκα</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ἡνίκα</word>
+    </Lema>
+    <Morph>
+     <word seq="1">c</word>
+    </Morph>
+    <Strong>
+     <word seq="1">2259</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">67.36</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">δὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">δέ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1161</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.124</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">ἐὰν</word>
+    </Greek>
+    <Lema>
+     <word seq="3">ἐάν</word>
+    </Lema>
+    <Morph>
+     <word seq="3">t</word>
+    </Morph>
+    <Strong>
+     <word seq="3">1437</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">67.36</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἐπιστρέψῃ</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἐπιστρέφω</word>
+    </Lema>
+    <Morph>
+     <word seq="4">vsaa3s</word>
+    </Morph>
+    <Strong>
+     <word seq="4">1994</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">15.90</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">πρὸς</word>
+    </Greek>
+    <Lema>
+     <word seq="5">πρός</word>
+    </Lema>
+    <Morph>
+     <word seq="5">p</word>
+    </Morph>
+    <Strong>
+     <word seq="5">4314</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">84.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">κύριον,</word>
+    </Greek>
+    <Lema>
+     <word seq="6">κύριος</word>
+    </Lema>
+    <Morph>
+     <word seq="6">nams</word>
+    </Morph>
+    <Strong>
+     <word seq="6">2962</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">12.9</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">περιαιρεῖται</word>
+    </Greek>
+    <Lema>
+     <word seq="7">περιαιρέω</word>
+    </Lema>
+    <Morph>
+     <word seq="7">vipp3s</word>
+    </Morph>
+    <Strong>
+     <word seq="7">4014</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">15.204</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="8">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="8">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="8">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">κάλυμμα.</word>
+    </Greek>
+    <Lema>
+     <word seq="9">κάλυμμα</word>
+    </Lema>
+    <Morph>
+     <word seq="9">nnns</word>
+    </Morph>
+    <Strong>
+     <word seq="9">2571</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">6.177</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="17">
+   <column>
+    <Greek>
+     <word seq="1">ὁ</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="1">dnms</word>
+    </Morph>
+    <Strong>
+     <word seq="1">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">δὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">δέ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1161</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.87</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">κύριος</word>
+    </Greek>
+    <Lema>
+     <word seq="3">κύριος</word>
+    </Lema>
+    <Morph>
+     <word seq="3">nnms</word>
+    </Morph>
+    <Strong>
+     <word seq="3">2962</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">12.9</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="4">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="4">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">πνεῦμά</word>
+    </Greek>
+    <Lema>
+     <word seq="5">πνεῦμα</word>
+    </Lema>
+    <Morph>
+     <word seq="5">nnns</word>
+    </Morph>
+    <Strong>
+     <word seq="5">4151</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">12.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">ἐστιν·</word>
+    </Greek>
+    <Lema>
+     <word seq="6">εἰμί</word>
+    </Lema>
+    <Morph>
+     <word seq="6">vipa3s</word>
+    </Morph>
+    <Strong>
+     <word seq="6">2076</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">13.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">οὗ</word>
+    </Greek>
+    <Lema>
+     <word seq="7">οὗ</word>
+    </Lema>
+    <Morph>
+     <word seq="7">b</word>
+    </Morph>
+    <Strong>
+     <word seq="7">3757</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">83.5</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">δὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="8">δέ</word>
+    </Lema>
+    <Morph>
+     <word seq="8">c</word>
+    </Morph>
+    <Strong>
+     <word seq="8">1161</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">89.87</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">τὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="9">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="9">dnns</word>
+    </Morph>
+    <Strong>
+     <word seq="9">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">πνεῦμα</word>
+    </Greek>
+    <Lema>
+     <word seq="10">πνεῦμα</word>
+    </Lema>
+    <Morph>
+     <word seq="10">nnns</word>
+    </Morph>
+    <Strong>
+     <word seq="10">4151</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">12.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">κυρίου,</word>
+    </Greek>
+    <Lema>
+     <word seq="11">κύριος</word>
+    </Lema>
+    <Morph>
+     <word seq="11">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="11">2962</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">12.9</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">ἐλευθερία.</word>
+    </Greek>
+    <Lema>
+     <word seq="12">ἐλευθερία</word>
+    </Lema>
+    <Morph>
+     <word seq="12">nnfs</word>
+    </Morph>
+    <Strong>
+     <word seq="12">1657</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">37.133</word>
+    </LMcode>
+   </column>
+  </verse>
+  <verse number="18">
+   <column>
+    <Greek>
+     <word seq="1">ἡμεῖς</word>
+    </Greek>
+    <Lema>
+     <word seq="1">ἐγώ</word>
+    </Lema>
+    <Morph>
+     <word seq="1">rp1n_p</word>
+    </Morph>
+    <Strong>
+     <word seq="1">2249</word>
+    </Strong>
+    <LMcode>
+     <word seq="1">92.1</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="2">δὲ</word>
+    </Greek>
+    <Lema>
+     <word seq="2">δέ</word>
+    </Lema>
+    <Morph>
+     <word seq="2">c</word>
+    </Morph>
+    <Strong>
+     <word seq="2">1161</word>
+    </Strong>
+    <LMcode>
+     <word seq="2">89.87</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="3">πάντες</word>
+    </Greek>
+    <Lema>
+     <word seq="3">πᾶς</word>
+    </Lema>
+    <Morph>
+     <word seq="3">anmp</word>
+    </Morph>
+    <Strong>
+     <word seq="3">3956</word>
+    </Strong>
+    <LMcode>
+     <word seq="3">59.23</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="4">ἀνακεκαλυμμένῳ</word>
+    </Greek>
+    <Lema>
+     <word seq="4">ἀνακαλύπτω</word>
+    </Lema>
+    <Morph>
+     <word seq="4">vpxp-dns</word>
+    </Morph>
+    <Strong>
+     <word seq="4">343</word>
+    </Strong>
+    <LMcode>
+     <word seq="4">79.117</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="5">προσώπῳ</word>
+    </Greek>
+    <Lema>
+     <word seq="5">πρόσωπον</word>
+    </Lema>
+    <Morph>
+     <word seq="5">ndns</word>
+    </Morph>
+    <Strong>
+     <word seq="5">4383</word>
+    </Strong>
+    <LMcode>
+     <word seq="5">8.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="6">τὴν</word>
+    </Greek>
+    <Lema>
+     <word seq="6">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="6">dafs</word>
+    </Morph>
+    <Strong>
+     <word seq="6">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="6">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="7">δόξαν</word>
+    </Greek>
+    <Lema>
+     <word seq="7">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="7">nafs</word>
+    </Morph>
+    <Strong>
+     <word seq="7">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="7">79.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="8">κυρίου</word>
+    </Greek>
+    <Lema>
+     <word seq="8">κύριος</word>
+    </Lema>
+    <Morph>
+     <word seq="8">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="8">2962</word>
+    </Strong>
+    <LMcode>
+     <word seq="8">12.9</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="9">κατοπτριζόμενοι</word>
+    </Greek>
+    <Lema>
+     <word seq="9">κατοπτρίζω</word>
+    </Lema>
+    <Morph>
+     <word seq="9">vppm-nmp</word>
+    </Morph>
+    <Strong>
+     <word seq="9">2734</word>
+    </Strong>
+    <LMcode>
+     <word seq="9">24.44</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="10">τὴν</word>
+    </Greek>
+    <Lema>
+     <word seq="10">ὁ</word>
+    </Lema>
+    <Morph>
+     <word seq="10">dafs</word>
+    </Morph>
+    <Strong>
+     <word seq="10">3588</word>
+    </Strong>
+    <LMcode>
+     <word seq="10">92.24</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="11">αὐτὴν</word>
+    </Greek>
+    <Lema>
+     <word seq="11">αὐτός</word>
+    </Lema>
+    <Morph>
+     <word seq="11">rp3afs, aafs</word>
+    </Morph>
+    <Strong>
+     <word seq="11">846</word>
+    </Strong>
+    <LMcode>
+     <word seq="11">58.31</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="12">εἰκόνα</word>
+    </Greek>
+    <Lema>
+     <word seq="12">εἰκών</word>
+    </Lema>
+    <Morph>
+     <word seq="12">nafs</word>
+    </Morph>
+    <Strong>
+     <word seq="12">1504</word>
+    </Strong>
+    <LMcode>
+     <word seq="12">6.96</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="13">μεταμορφούμεθα</word>
+    </Greek>
+    <Lema>
+     <word seq="13">μεταμορφόω</word>
+    </Lema>
+    <Morph>
+     <word seq="13">vipp1p</word>
+    </Morph>
+    <Strong>
+     <word seq="13">3339</word>
+    </Strong>
+    <LMcode>
+     <word seq="13">13.53</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="14">ἀπὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="14">ἀπό</word>
+    </Lema>
+    <Morph>
+     <word seq="14">p</word>
+    </Morph>
+    <Strong>
+     <word seq="14">575</word>
+    </Strong>
+    <LMcode>
+     <word seq="14">13.62</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="15">δόξης</word>
+    </Greek>
+    <Lema>
+     <word seq="15">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="15">ngfs</word>
+    </Morph>
+    <Strong>
+     <word seq="15">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="15">79.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="16">εἰς</word>
+    </Greek>
+    <Lema>
+     <word seq="16">εἰς</word>
+    </Lema>
+    <Morph>
+     <word seq="16">p</word>
+    </Morph>
+    <Strong>
+     <word seq="16">1519</word>
+    </Strong>
+    <LMcode>
+     <word seq="16">13.62</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="17">δόξαν</word>
+    </Greek>
+    <Lema>
+     <word seq="17">δόξα</word>
+    </Lema>
+    <Morph>
+     <word seq="17">nafs</word>
+    </Morph>
+    <Strong>
+     <word seq="17">1391</word>
+    </Strong>
+    <LMcode>
+     <word seq="17">79.18</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="18">καθάπερ</word>
+    </Greek>
+    <Lema>
+     <word seq="18">καθάπερ</word>
+    </Lema>
+    <Morph>
+     <word seq="18">c</word>
+    </Morph>
+    <Strong>
+     <word seq="18">2509</word>
+    </Strong>
+    <LMcode>
+     <word seq="18">64.15</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="19">ἀπὸ</word>
+    </Greek>
+    <Lema>
+     <word seq="19">ἀπό</word>
+    </Lema>
+    <Morph>
+     <word seq="19">p</word>
+    </Morph>
+    <Strong>
+     <word seq="19">575</word>
+    </Strong>
+    <LMcode>
+     <word seq="19">90.15</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="20">κυρίου</word>
+    </Greek>
+    <Lema>
+     <word seq="20">κύριος</word>
+    </Lema>
+    <Morph>
+     <word seq="20">ngms</word>
+    </Morph>
+    <Strong>
+     <word seq="20">2962</word>
+    </Strong>
+    <LMcode>
+     <word seq="20">12.9</word>
+    </LMcode>
+   </column>
+   <column>
+    <Greek>
+     <word seq="21">πνεύματος.</word>
+    </Greek>
+    <Lema>
+     <word seq="21">πνεῦμα</word>
+    </Lema>
+    <Morph>
+     <word seq="21">ngns</word>
+    </Morph>
+    <Strong>
+     <word seq="21">4151</word>
+    </Strong>
+    <LMcode>
+     <word seq="21">12.18</word>
+    </LMcode>
+   </column>
+  </verse>
+ </chapter>
+</book>

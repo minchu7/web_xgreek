@@ -1,0 +1,360 @@
+.redtext{
+	color : red;
+	display: inline-block;
+}
+.scroller {
+  flex: auto;
+  overflow-y:scroll;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;
+  -ms-scroll-snap-type: mandatory;
+}
+.r_flex_container{
+    height: 100%;
+    display: flex;
+    margin: 0;
+	flex-flow: column nowrap;
+}
+.inline{
+    display: inline-block;
+}
+.myToolbar{
+	background-color:#e9e9e9; 
+	padding-top:0;
+}
+.select-input{
+    min-height: 40px;
+    cursor: pointer;
+    filter: Alpha(Opacity=0);
+    z-index: 2;
+	border-width: 2px; 
+    border-style: solid;
+	margin: 2px; 
+	border-color: #ccc;
+	webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+ons-select{
+	width: 95%;
+}
+label{
+	margin:6px;
+	display:inline-block;
+}
+/* Popup container - can be anything you want */
+ons-list-item,
+li{
+	background: #fff;
+	color: #454545;
+	min-height: 40px;
+}
+/*define the height of toolbar*/
+.toolbar{
+  height: 40px;
+}
+#main .page__content {
+  top: 40px;
+}
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 4;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.2);
+    overflow-x: hidden;
+    transition: 0.1s;
+}
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.popuplist {
+    background-color: #fff;
+    color: #55d;
+    text-align: center;
+    margin-left: 0px;
+}
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 6px;
+    position: absolute;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    z-index: 6;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}.popover2{
+    display:block !important;
+    max-width: 400px!important;
+    width:auto;
+}
+.gramma *{
+	margin: 5px;
+}
+.gramma td{
+	vertical-align:top;
+}
+/* Minimum width of 960 pixels. */
+@media screen and (min-width: 768px) {
+	#grammarPage {
+		background-color: #befefe;
+	}
+	#grammarContent {
+		width: 800px;
+		display: table;
+    	margin: auto;
+		margin-top: 0.57rem;
+		margin-bottom: 3.428571429rem;
+		box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+		background-color: #f9f9f9;
+	}
+}
+.ui-header-fixed {
+    -webkit-text-size-adjust:none;
+	-ms-text-size-adjust:none;
+	-moz-text-size-adjust:none;
+	text-size-adjust:none;
+}
+.ui-dialog-contain{
+	margin: 3% auto 1em;
+}
+.ui-content {
+	padding:0.1em;
+	overflow: hidden;
+}
+.ui-select {
+    margin-top: .4em;
+    margin-bottom: .1em;
+}
+.ui-btn[disabled], .ui-btn:focus[disabled], .ui-btn:hover[disabled]{
+    color: lightgrey;
+}
+.ui-listview>.ui-li-static {
+    padding: .3em 1em;
+}
+.ui-content .ui-listview{
+    margin: 0em;
+}
+.gpos td {
+	white-space: nowrap;
+	text-align: left;
+}
+.ui-block-a label{
+	margin: 1em 2% 0 0;
+	text-align:center;
+}
+table.gpos{
+	border-collapse:collapse;
+}
+tr.border_bottom {
+	border-bottom: 1px solid #000;
+}
+tr [colspan="2"] {
+    text-align: center;
+}
+tr [colspan="3"] {
+    text-align: center;
+}
+tr [colspan="4"] {
+    text-align: center;
+}
+tr [colspan="5"] {
+    text-align: center;
+}
+td.tranText{
+    text-align: left;
+}
+td div{
+	display: inline;
+	text-shadow: none;
+}
+.borderTbl td{
+	border-bottom: 1px solid #000;
+	border-left: 1px solid #000;
+}
+.gramma table{
+	border: 1px solid #000;
+}
+.gramma div{
+	display: inline;
+}
+td sup{
+	color: black;
+	font-size: 12px ;
+	position:relative;
+	bottom:-8px;
+	text-shadow: none;
+}
+html, body {
+	height: 100%;
+	background-color: #1985D0
+}
+@font-face {
+	font-family: 'SBL_grk';
+	font-style: normal;
+	font-weight: 400;
+	src: local('SBL_grk'), local('SBL_grk-Regular'), url(SBL_grk.ttf) format('truetype');
+}
+table[id=verse-table] td{
+	white-space: nowrap;
+	color: black;
+	font-size:16px;
+	text-align:center;
+	padding:3px 3px;
+	font-family: 'SBL_grk', sans-serif;
+}
+table[id=verse-table] div{
+	display: inline;
+}
+#verse-table {
+	table-layout:fixed;
+	background:#befefe;
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+table td.strongCode{
+	display:table-cell;
+	vertical-align:middle;
+	height:25px;
+	color:#FFFFFF;
+	background-color:#006699;
+	cursor:pointer;
+}
+table td.morphCode{
+	display:table-cell;
+	vertical-align:middle;
+	height:25px;
+	color:#CCFFFF;
+	background-color:#006666;
+	cursor:pointer;
+}
+table td.greekTD{
+	display:table-cell;
+	vertical-align:middle;
+	height:25px;
+	color:black;
+	background-color: #e0ffff;
+	cursor:pointer;
+}
+table td.noteWord{
+	display:table-cell;
+	vertical-align:middle;
+	height:25px;
+	color:black;
+	background-color:lightgrey;
+	cursor:pointer;
+}
+a.aSeqTag{
+	/*
+	display:block;
+	text-decoration:underline;
+	cursor:pointer;
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+	font-family: inherit;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: auto;
+	text-overflow: ellipsis;
+	text-decoration: none;
+	white-space: nowrap;
+	background: none;
+	bottom: 0px;
+	right: 10px;
+	margin: 0;
+	padding: 0 0px;
+	color: black;
+	text-shadow: none;
+	-webkit-box-shadow: rgba(255, 255, 255, 0.2) 0 1px 0, rgba(0, 0, 0, 0.2) 0 1px 2px inset;
+	box-shadow: rgba(255, 255, 255, 0.2) 0 1px 0, rgba(0, 0, 0, 0.2) 0 1px 2px inset;
+	border: 1px solid #2d3f57;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-image: none;
+	background-color: #a0b0ca;
+	background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, lightgrey), color-stop(50%, white), color-stop(51%, white), color-stop(100%, lightgrey));
+	background-image: -webkit-linear-gradient(top, lightgrey, white 50%, white 51%, lightgrey);
+	background-image: linear-gradient(top, lightgrey, white 50%, white 51%, lightgrey);
+	*/
+}
+a.aGraphTag{
+	text-decoration:underline;
+	cursor:pointer;
+	overflow: hidden;
+	width: auto;
+	height: auto;
+	font-family: inherit;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: auto;
+	text-overflow: ellipsis;
+	text-decoration: none;
+	white-space: nowrap;
+	background: none;
+	bottom: 0px;
+	right: 5px;
+	margin: 0;
+	padding: 3px 5px;
+	color: white;
+	text-shadow: none;
+	-webkit-box-shadow: rgba(255, 255, 255, 0.2) 0 1px 0, rgba(0, 0, 0, 0.2) 0 1px 2px inset;
+	box-shadow: rgba(255, 255, 255, 0.2) 0 1px 0, rgba(0, 0, 0, 0.2) 0 1px 2px inset;
+	border: 1px solid #2d3f57;
+	-webkit-border-radius: 5px;
+	border-radius: 4px;
+	background-image: none;
+	background-color: #50709a;
+}
+a.aGraphTag:active{
+	background-color:yellow;
+} 
+/* line 1, ../scss/include/_base.scss */
+.Verse {
+	margin: 0;
+	padding: 0;
+}
