@@ -25,7 +25,7 @@ function initFindText(){
 		else{
 			resetFindView();
 		}
-	}	
+	}
 	new Lang(bookLan, translArr);
 	var VersionList = $('#versionCB')[0];
   	var bookNames;
@@ -41,12 +41,11 @@ function initFindText(){
 		    var NewOption = new Option( selLangArray[i], selLangTags[i], false,false);
 		    n = VersionList.length;
 		    VersionList.options[n] = NewOption;
+			if( findTextBookVersion === null)
+		    	findTextBookVersion = selLangTags[i];
 		}
 	}
-	var v = findTextBookVersion;
-	if( v == null)
-		v = selLangTags[0];
-	setSelByVal( 'versionCB', v);
+	setSelByVal( 'versionCB', findTextBookVersion);
 }
 function resetFoundList(){
 	diffElmScrollTop = -1;
@@ -62,7 +61,7 @@ function findTxtInBible(){
 		alert( langV.get('NeedText'));
 		return;
 	}
-	if( version !== findTextBookVersion){
+	if( version !== findTextBookVersion || bookTxt === null){
 		makeBibleText( version, search);
 	}else{
 		search();
@@ -133,7 +132,7 @@ function findTxtInBible(){
 			idx++;
 			if( idx < foundArr.length){
 				var a = foundArr[idx];
-				readBookChapter( a[0], a[1], true, versionTag, nextVerse);			
+				readBookChapter( a[0], a[1], true, versionTag, nextVerse);
 			}else{
 				setFoundList( foundArr);
 			}
@@ -149,7 +148,7 @@ function findTxtInBible(){
 			else{
 				idx = verse.lastIndexOf(" ", idx-2);
 				if(idx < 0) idx = 0;
-			} 
+			}
 			if( endIdx - idx > 35)
 				endIdx = verse.lastIndexOf(" ", idx + 35);
 		}else{
@@ -328,7 +327,7 @@ function makeBibleText( versionTag, search){
 				hideModal();
 				search();
 				return;
-			}			
+			}
 		}
 		readBookChapter( i, chapter, addDir, versionTag, nextFile);
 	}

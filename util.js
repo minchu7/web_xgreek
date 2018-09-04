@@ -6,7 +6,7 @@ document.addEventListener('init', function(event){
 	if( view === 'main' ){
 		util.mainInit( event.target);
 	}
-	}, false);	
+	}, false);
 util.showVerseEl = function(){
 	var elV = document.getElementById('Verse'+curVerse);
 	if( !elV){
@@ -35,7 +35,7 @@ util.menuClose = function() {
 util.load = function(page, data) {
 	var myNavigator = document.getElementById('myNavigator');
 	var menu = document.getElementById('splitter-menu');
-	myNavigator.bringPageTop( page, {animation: 'none'}); 
+	myNavigator.bringPageTop( page, {animation: 'none'});
 	menu.close();
 };
 util.goPage = function(page, data) {
@@ -55,7 +55,7 @@ util.isTopMain = function() {
 };
 
 //settings view functions
-var orgbookLang; 
+var orgbookLang;
 function InitSetting(){
 	document.getElementById('SettingBackBT').onClick = function(event) {
   		// Reset the whole stack instead of popping 1 page
@@ -120,20 +120,20 @@ function populateList(k) {
 			continue;
 		}
 		lanRows[k].style.visibility = 'visible';
-		var sval;
+		var sval = -1;
 		for(var i=0,j=0; i<arLen; i++){
 			if( !isSelIn(k, langArray[i])){
 				lanRows[k].options[j]=new Option(langArray[i], i);
 				if( langArray[i] == selLangArrayTmp[k])
-				sval = i;
+					sval = i;
 				j++;
 			}
 		}
 		var jqo = $(lanRows[k]);
-		if( sval)
+		if( sval !== -1)
 			jqo.val( sval);
 		else
-			jqo.val( 0);
+			jqo[0].selectedIndex = 0;
 	}
 }
 function changeBookLang( lang){
@@ -182,8 +182,8 @@ function showNewSetting(e){
 	if($("#ShowSettingBt").attr("disabled")=="disabled"){
 		//return onclick do nothing
 		evt.stopPropagation();
-		return;    
-	}   
+		return;
+	}
 	if( !compareArr(selLangArray, selLangArrayTmp))
 		window.setTimeout(function (){
 			selLangArray = selLangArrayTmp;
@@ -220,4 +220,3 @@ function selectLanChange( selEl, k){
 	}
 	populateList(k);
 }
-
